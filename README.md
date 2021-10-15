@@ -8,7 +8,9 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C#-290c6c?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-db8036?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Swift-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
+
+
 <img src="https://img.shields.io/badge/Kotlin-df5d43?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>

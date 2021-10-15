@@ -22,8 +22,6 @@ Contact? 😊
 =
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/23_cj_99-d14279?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 [![h-ch22's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-ch22)](https://github.com/h-ch22/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

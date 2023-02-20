@@ -30,6 +30,7 @@ Techs that I've used at least once 😏
 🌱 I'm currently learning
 =
 in Jeonbuk National University, Dept. of Software Engineering
+Development of a platform for diagnosing hemocytic diseases using smartphone-based intelligent holographic microscopy, SB Lab, Jeonbuk National University
 
 Contact? 😊
 =

@@ -6,13 +6,18 @@ Techs that I've used at least once 😏
 
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-db8036?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-df5d43?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unreal%20Engine?style=flat&logo=Unreal%20Engine&logoColor=#0E1128"/></a>
+
+💻 Tools 💻
+=
+
 
 🌱 I'm currently learning
 =

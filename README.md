@@ -30,10 +30,27 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
 
-🌱 I'm currently learning
+🌱 Learning, Research
 =
 in Jeonbuk National University, Dept. of Software Engineering</br>
 Smart Biophotonics Lab., Jeonbuk National University</br>
+2nd Period, LG Aimers, 2022-2023</br>
+Development of XAI-based scalp inspection software, Poster Presentation, KOSOMBE, 2023</br>
+
+🏆 Awards
+=
+🥇1st, 2018.Hackathon@Dept. Software Engineering, Jeonbuk National University (Award of President, JBNU dept.SWE)</br>
+🥇1st, 2019.Hackathon@Dept. Computer Engineering, Jeonbuk National University (Award of President, JBNU)</br>
+🥉Encouragement Award, 2020.K-Hackathon, SWKorea (Award of Chairman, SWKorea)</br>
+🥉Encouragement Award, 2021.K-Hackathon, SWKorea (Award of President, SWKorea)</br>
+
+📰 Article
+=
+‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021</br>
+https://www.jbpresscenter.com/news/articleView.html?idxno=501197 </br></br>
+
+“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021</br>
+https://magazine.hankyung.com/job-joy/amp/202106086136d </br>
 
 Contact? 😊
 =

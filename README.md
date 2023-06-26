@@ -35,7 +35,8 @@ Techs that I've used at least once 😏
 in Jeonbuk National University, Dept. of Software Engineering</br>
 Smart Biophotonics Lab., Jeonbuk National University</br>
 2nd Period, LG Aimers, 2022-2023</br>
-Development of XAI-based scalp inspection software, Poster Presentation, KOSOMBE, 2023</br>
+Development of XAI-based scalp inspection software (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023</br>
+Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**), 2023. KIIT</br>
 
 🏆 Awards
 =
@@ -43,6 +44,7 @@ Development of XAI-based scalp inspection software, Poster Presentation, KOSOMBE
 🥇1st, 2019.Hackathon@Dept. Computer Engineering, Jeonbuk National University (Award of President, JBNU)</br>
 🥉Encouragement Award, 2020.K-Hackathon, SWKorea (Award of Chairman, SWKorea)</br>
 🥉Encouragement Award, 2021.K-Hackathon, SWKorea (Award of President, SWKorea)</br>
+🥈Silver Award, Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**), 2023. KIIT</br>
 
 📰 Article
 =

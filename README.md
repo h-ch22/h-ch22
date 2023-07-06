@@ -42,8 +42,8 @@ Development of Source Code Evaluation and Similarity Inspection System : Code Od
 =
 🥇1st, 2018.Hackathon@Dept. Software Engineering, Jeonbuk National University (Award of President, JBNU dept.SWE)</br>
 🥇1st, 2019.Hackathon@Dept. Computer Engineering, Jeonbuk National University (Award of President, JBNU)</br>
-🥉Encouragement Award, 2020.K-Hackathon, SWKorea (Award of Chairman, SWKorea)</br>
-🥉Encouragement Award, 2021.K-Hackathon, SWKorea (Award of President, SWKorea)</br>
+🥉Encouragement Award, 2020.K-Hackathon, SWKorea (Award of Chairman, SWKorea) (Ha Changjin, Yoo Hyeonjin, Moon Sojung, (The late) Oh Hayeon)</br>
+🥉Encouragement Award, 2021.K-Hackathon, SWKorea (Award of President, SWKorea) (Ha Changjin, Jang Yooji, Moon Sojung, Lee Hayeong)</br>
 🥈Silver Award, Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**), 2023. KIIT</br>
 
 📰 Article

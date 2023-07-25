@@ -32,19 +32,23 @@ Techs that I've used at least once 😏
 
 🌱 Learning, Research
 =
-in Jeonbuk National University, Dept. of Software Engineering</br>
-Smart Biophotonics Lab., Jeonbuk National University</br>
-2nd Period, LG Aimers, 2022-2023</br>
-Development of XAI-based scalp inspection software (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023</br>
-Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**), 2023. KIIT</br>
+|Agency|Subject|Period|
+|------|------|-----|
+|Jeonbuk National University|Dept. of Software Engineering (SWE)|2018-Current|
+|LG AI Research|2nd Period, LG Aimers|2022-2023|
+|Jeonbuk National University|Smart Biophotonics Lab.|2023-Current|
+|KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|2023. Spring|
+|KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**)|2023. Summer|
 
 🏆 Awards
 =
-🥇1st, 2018.Hackathon@Dept. Software Engineering, Jeonbuk National University (Award of President, JBNU dept.SWE)</br>
-🥇1st, 2019.Hackathon@Dept. Computer Engineering, Jeonbuk National University (Award of President, JBNU)</br>
-🥉Encouragement Award, 2020.K-Hackathon, SWKorea (Award of Chairman, SWKorea) (Ha Changjin, Yoo Hyeonjin, Moon Sojung, (The late) Oh Hayeon)</br>
-🥉Encouragement Award, 2021.K-Hackathon, SWKorea (Award of President, SWKorea) (Ha Changjin, Jang Yooji, Moon Sojung, Lee Hayeong)</br>
-🥈Silver Award, Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**), 2023. KIIT</br>
+|Level|Agency|Award|
+|-----|-----|-----|
+|🥇1st|2018.Hackathon@Dept. Software Engineering, Jeonbuk National University|Award of President, JBNU dept.SWE|
+|🥇1st|2019.Hackathon@Dept. Computer Engineering, Jeonbuk National University|Award of President, JBNU|
+|🥉Encouragement Award|2020.K-Hackathon, SWKorea, Development of Training AR Application for Safe Use of Non-drugs for Children (Changjin-Ha, Hyeonjin-Yoo, Sojung-Moon, (The late) Hayeon-Oh)|Award of Chairman, SWKorea|
+|🥉Encouragement Award|2021.K-Hackathon, SWKorea, Developmennt of Universal Home IoT Device&Service (Changjin-Ha, Yooji-Jang, Sojung-Moon, Hayeong-Lee)|Award of President, SWKorea|
+|🥈Silver Award|2023. KIIT, Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**)|Silver Award|</br>
 
 📰 Article
 =

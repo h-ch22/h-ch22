@@ -62,9 +62,13 @@ Contact? 😊
 =
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-[![h-ch22 GitHub stats](https://server.dooboo.io/github-stats/h-ch22)]
-
-[![h-ch22's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-ch22)](https://github.com/h-ch22/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-ch22)](https://github.com/h-ch22/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Statistics 🏆
+=  
+<a href="https://github.com/h-ch22/github-readme-stats&layout=compact&theme=cobalt">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ch22&layout=compact&theme=cobalt"/>
+</a>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwls9460)](https://solved.ac/ckdwls9460) </br>
+![](./profile-3d-contrib/profile-night-rainbow.svg) </br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </br>

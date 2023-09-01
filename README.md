@@ -46,8 +46,8 @@ Techs that I've used at least once 😏
 |-----|-----|-----|-----|
 |🥇1st|2018.Hackathon@Dept. Software Engineering, Jeonbuk National University|Development of Blue Light Screen Filter to Prevent Smartphone Addiction|Award of President, JBNU, dept. of SWE|
 |🥇1st|2019.Hackathon@Div. Computer Engineering, Jeonbuk National University|Development of notification reception system for smartphones on smart TVs|Award of President, JBNU|
-|🥉Encouragement Award|2020.K-Hackathon, SWKorea|Development of Training AR Application for Safe Use of Non-drugs for Children (Changjin-Ha, Yejin-Seo, Hyeonjin-Yoo, Sojung-Moon, †Hayeon-Oh(23.06.30.))|Award of Chairman, SWKorea|
-|🥉Encouragement Award|2021.K-Hackathon, SWKorea|Development of Universal Home IoT Device&Service (Changjin-Ha, Yujee-Chang, Sojung-Moon, Hayeong-Lee)|Award of President, SWKorea|
+|🥉Encouragement Award|2020.K-Hackathon, SWKorea|Development of Training AR Application for Safe Use of Non-drugs for Children (Changjin-Ha, Yejin-Seo, Hyeonjin-Yoo, †Hayeon-Oh(23.06.30.), et al.)|Award of Chairman, SWKorea|
+|🥉Encouragement Award|2021.K-Hackathon, SWKorea|Development of Universal Home IoT Device&Service (Changjin-Ha, Yujee-Chang, Hayeong-Lee, et al.)|Award of President, SWKorea|
 |🥈Silver Award|2023. KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant(Younsu Nam*, Sechang Kim*, Jaehyeon Kim*, Hyunsu Kim*, Changin Ha*, Sunoh Choi** and Cheoljung Yoo**)|Silver Award|</br>
 
 📰 Article

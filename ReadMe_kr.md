@@ -1,4 +1,4 @@
-[English](https://github.com/h-ch22/h-ch22/README.md) </br>
+[English](https://github.com/h-ch22/) </br>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=반가워요!👋🏻&fontSize=90)
 
 🛠 기술 스택 🛠

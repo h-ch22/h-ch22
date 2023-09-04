@@ -1,3 +1,4 @@
+[한국어](https://github.com/h-ch22/h-ch22/blob/main/ReadMe_kr.md) </br>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20There!👋🏻&fontSize=90)
 
 🛠 Techs Stack 🛠
@@ -62,7 +63,7 @@ Contact? 😊
 =
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-Statistics 🏆
+Statistics 📈
 =  
 <a href="https://github.com/h-ch22/github-readme-stats&layout=compact&theme=cobalt">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt"/>

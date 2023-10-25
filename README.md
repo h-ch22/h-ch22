@@ -1,4 +1,4 @@
-[한국어](https://github.com/h-ch22/h-ch22/blob/main/ReadMe_kr.md) </br>
+[한국어](https://github.com/h-ch22/h-ch22/blob/main/ReadMe_kr.md) 
 [Notion](https://www.notion.so/Changjin-Ha-950fb9482888474cb3abef91f714f24d?pvs=4) </br>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20There!👋🏻&fontSize=90)
 

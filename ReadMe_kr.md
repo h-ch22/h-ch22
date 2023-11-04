@@ -40,6 +40,7 @@
 |전북대학교|Smart Biophotonics Lab.|2023-현재|
 |대한의용생체공학회|설명가능한 인공지능을 활용한 두피 상태 진단 소프트웨어 개발 (하창진, 고태식), Poster Presentation|2023. 춘계|
 |한국정보기술학회|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발([남윤수](https://github.com/namyounsu)* , [김세창](https://github.com/winersch)* , [김재현](https://github.com/kiku99)* , [김현수](https://github.com/kimhyun5u)* , 하창진* , 최선오** , 유철중**)|2023. 하계|
+|한국재활복지공학회|한국어 구음장애 진단 및 재활을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|2023. 추계|
 
 🏆 수상
 =
@@ -49,7 +50,9 @@
 |🥇1위|2019. 전북대학교 컴퓨터공학부 해커톤|스마트 TV에서 스마트폰의 알림 수신 및 확인이 가능한 플랫폼 개발|전북대학교 총장상|
 |🥉장려상|2020. K-해커톤, 소프트웨어교육혁신센터|아동을 위한 의약외품의 정확한 사용법 교육 AR 애플리케이션 개발 (하창진, [서예진](https://github.com/yejin25), [유현진](https://github.com/1hyunjin), 故오하연(23.06.30.), 그 외.)|소프트웨어교육혁신센터 이사장상|
 |🥉장려상|2021. K-해커톤, 소프트웨어교육혁신센터|1인 가구를 위한 통합 IoT 플랫폼 개발 (하창진, [장유지](https://github.com/yujeecatherine), 이하영, 그 외.)|소프트웨어교육혁신센터장상|
-|🥈은상|2023. 한국정보기술학회, 대학생 논문 경진대회|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발([남윤수](https://github.com/namyounsu)* , [김세창](https://github.com/winersch)* , [김재현](https://github.com/kiku99)* , [김현수](https://github.com/kimhyun5u)* , 하창진* , 최선오** , 유철중**)|은상|</br>
+|🥈은상|2023. 춘계, 한국정보기술학회, 대학생 논문 경진대회|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발([남윤수](https://github.com/namyounsu)* , [김세창](https://github.com/winersch)* , [김재현](https://github.com/kiku99)* , [김현수](https://github.com/kimhyun5u)* , 하창진* , 최선오** , 유철중**)|은상|
+|🥇대상|2023. 추계, 한국재활복지공학회, 대학생 논문 경진대회|한국어 구음장애 진단 및 재활을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|대상|
+|🏅특별상|2023. K-해커톤, 소프트웨어교육혁신센터|아동 심리 상태 확인 및 공유, 상담을 위한 딥러닝 기반 HTP 검사 서비스(하창진, [장유지](https://github.com/yujeecatherine))|소프트웨어교육혁신센터장상|</br>
 
 📰 기사
 =

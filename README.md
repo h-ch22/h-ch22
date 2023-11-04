@@ -41,6 +41,7 @@ Techs that I've used at least once 😏
 |Jeonbuk National University|Smart Biophotonics Lab.|2023-Current|
 |KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|2023. Spring|
 |KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|2023. Summer|
+|RESKO|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go)|2023. Fall|
 
 🏆 Awards
 =
@@ -50,7 +51,9 @@ Techs that I've used at least once 😏
 |🥇1st|2019.Hackathon@Div. Computer Engineering, Jeonbuk National University|Development of notification reception system for smartphones on smart TVs|Award of President, JBNU|
 |🥉Encouragement Award|2020.K-Hackathon, SWKorea|Development of Training AR Application for Safe Use of Non-drugs for Children (Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), †Hayeon-Oh(23.06.30.), et al.)|Award of Chairman, SWKorea|
 |🥉Encouragement Award|2021.K-Hackathon, SWKorea|Development of Universal Home IoT Device&Service (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, et al.)|Award of President, SWKorea|
-|🥈Silver Award|2023. KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Silver Award|</br>
+|🥈Silver Award|2023. Summer, KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Silver Award|
+|🥇 1st|2023. Fall, RESKO, Paper Contest for College Students|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go)|1st|
+|🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang)](https://github.com/yujeecatherine)|Award of President, SWKorea|</br>
 
 📰 Article
 =

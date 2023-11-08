@@ -41,6 +41,7 @@
 |대한의용생체공학회|설명가능한 인공지능을 활용한 두피 상태 진단 소프트웨어 개발 (하창진, 고태식), Poster Presentation|2023. 춘계|
 |한국정보기술학회|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발([남윤수](https://github.com/namyounsu)* , [김세창](https://github.com/winersch)* , [김재현](https://github.com/kiku99)* , [김현수](https://github.com/kimhyun5u)* , 하창진* , 최선오** , 유철중**)|2023. 하계|
 |한국재활복지공학회|한국어 구음장애 진단 및 재활을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|2023. 추계|
+|대한의용생체공학회|한국인 구음장애 환자의 발화데이터를 활용한 질병 예측 및 발음 교정을 위한 모바일 애플리케이션 개발 (하창진, 고태식), Poster Presentation|2023. 추계|
 
 🏆 수상
 =

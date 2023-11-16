@@ -54,7 +54,7 @@ Techs that I've used at least once 😏
 |🥉Encouragement Award|2021.K-Hackathon, SWKorea|Development of Universal Home IoT Device&Service (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, et al.)|Award of President, SWKorea|
 |🥈Silver Award|2023. Summer, KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Silver Award|
 |🥇 1st|2023. Fall, RESKO, Paper Contest for College Students|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|1st|
-|🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang)](https://github.com/yujeecatherine)|Award of President, SWKorea|</br>
+|🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang)](https://github.com/yujeecatherine)|Award of Chairman, SWKorea|</br>
 
 📰 Article
 =

@@ -67,7 +67,7 @@ https://www.jbpresscenter.com/news/articleView.html?idxno=501197 </br></br>
 “오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021</br>
 https://magazine.hankyung.com/job-joy/amp/202106086136d </br></br>
 
-숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2021</br>
+숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022</br>
 https://www.jbpresscenter.com/news/articleView.html?idxno=501903 </br>
 
 Contact? 😊

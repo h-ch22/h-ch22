@@ -8,10 +8,11 @@ MEDi<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Java-f89820?style=flat-square">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
 <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
 
 ## 🗓️ Period
@@ -23,7 +24,11 @@ MEDi<br>
 ☑️ <b>Published on Google Play<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), †Hayeon-Oh(23.06.30.), et al.<br><br>
+Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), †Hayeon-Oh(23.06.30.), et al.<br>
+
+## 📱 Products
+[Android Source Code](https://github.com/h-ch22/MEDi_Android)<br>
+[iOS/iPadOS Source Code](https://github.com/h-ch22/MEDi_iOS)<br><br>
 
 - - -
 
@@ -35,7 +40,7 @@ JBNU COE<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
@@ -55,10 +60,15 @@ JBNU COE<br>
 https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br><br>
+Changjin-Ha<br>
+
+## 📱 Products
+[Android Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Android)<br>
+[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/JBNUCOE_iOS)<br>
+[Windows Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Admin)<br><br>
 
 - - -
-
+<img src="res/SOZIP_mockup.png"><br>
 <img width="200px;" src="res/ic_SOZIP.png"><br>
 소집 : SOZIP<br>
 =
@@ -66,7 +76,7 @@ Changjin-Ha<br><br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
@@ -78,16 +88,21 @@ Changjin-Ha<br><br>
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br><br>
+Changjin-Ha<br>
+
+## 📱 Products
+[Android Source Code](https://github.com/h-ch22/SOZIP_Android)<br>
+[iOS/iPadOS Source Code](https://github.com/h-ch22/SOZIP_iOS)<br><br>
 
 - - -
-
+<img src="res/OFFIT_mockup.png"><br>
+<img width="200px;" src="res/ic_OFFIT.png"><br>
 OFF:IT<br>
 =
 > An Application for Universal Home IoT Device&Service<br>
 
 ## 🛠️ Technologies
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
@@ -101,13 +116,14 @@ OFF:IT<br>
 Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, et al.<br><br>
 
 - - -
-
-후생오더<br>
+<img src="res/HoosaengOrder_mockup.png"><br>
+<img width="200px" src="res/ic_HoosaengOrder.png"><br>
+후생관 오더<br>
 =
 > An application for non-face-to-face ordering and issuance of meal vouchers at Jeonbuk National University's student cafeteria<br>
 
 ## 🛠️ Technologies
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
@@ -117,7 +133,7 @@ Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, et a
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), et al.<br><br>
+Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Seunga-Park.<br><br>
 
 - - -
 
@@ -129,7 +145,7 @@ JBNU CH<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
@@ -144,7 +160,11 @@ JBNU CH<br>
 ☑️ <b>Published on Google Play, Apple App Store<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br><br>
+Changjin-Ha<br>
+
+## 📱 Products
+[Android Source Code](https://github.com/h-ch22/JBNUCH_Android)<br>
+[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCH_iOS)<br><br>
 
 - - -
 
@@ -168,7 +188,12 @@ Scalp Checker<br>
 📑 <b>Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Spring<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br><br>
+Changjin-Ha<br>
+
+## 📱 Products
+[Windows Source Code (Private)](https://github.com/h-ch22/ScalpChecker_Windows)<br>
+[Python Source Code (Private)](https://github.com/h-ch22/ScalpChecker_Python)<br>
+[Additional Software Source Code (Private)](https://github.com/h-ch22/ScalpChecker_GPUCompatibility)<br><br>
 
 - - -
 
@@ -179,10 +204,11 @@ Dysarthria Checker<br>
 > A diagnose app for detect dysarthria with ML and Korean vocalization for Korean<br>
 
 ## 🛠️ Technologies
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
 
 ## 🗓️ Period
 🗓️ <b>2023.06. ~ 2023.08.<br>
@@ -193,7 +219,11 @@ Dysarthria Checker<br>
 📑 <b>Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Fall<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br><br>
+Changjin-Ha<br>
+
+## 📱 Products
+[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DysarthriaChecker_iOS)<br>
+[DeepLearning Source Code (Private)](https://github.com/h-ch22/DysarthriaChecker)<br><br>
 
 - - -
 
@@ -205,7 +235,7 @@ DeepMind<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -219,7 +249,11 @@ DeepMind<br>
 🏅 <b>Special Award (Award of Chairman, SWKorea), 2023. K-Hackathon, SWKorea<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine)<br><br>
+Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine)<br>
+
+## 📱 Products
+[iOS/iPadOS Source Code](https://github.com/h-ch22/DeepMind_iOS)<br>
+[DeepLearning Source Code](https://github.com/h-ch22/DeepMind_ML)<br><br>
 
 - - -
 
@@ -242,19 +276,21 @@ Jeonbuk National University Smart Biophotonics Lab.<br>
 ☑️ <b>Published<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br><br>
+Changjin-Ha<br>
 
+## 📱 Products
+[Web Source Code (Private)](https://github.com/h-ch22/SBL_Web)<br><br>
 
 - - -
 
-<img src="res/ic_AgingHelper.png"><br>
+<img width="200px;" src="res/ic_AgingHelper.png"><br>
 AgingHelper<br>
 =
 > Use ML to preview the future of your precious person or provide improved facial recognition.<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
@@ -265,4 +301,7 @@ AgingHelper<br>
 ☑️ <b>In Progress<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br><br>
+Changjin-Ha<br>
+
+## 📱 Products
+[Android Source Code](https://github.com/h-ch22/AgingHelper_Android)<br><br>

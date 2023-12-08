@@ -38,7 +38,7 @@ ___
 - [<img width="30px;" src="res/ic_DysarthriaChecker.png"> Dysarthria Checker](#dysarthria-checker)
 - [<img width="30px;" src="res/ic_DeepMind.png"> DeepMind](#deepmind)
 - [<img width="30px;" src="res/ic_SBL.png"> Jeonbuk National University SmartBiophotonics Lab.](#jeonbuk-national-university-smart-biophotonics-lab)
-- [<img width="30px;" src="res/ic_agingHelper.png"> AgingHelper](#aginghelper)
+- [<img width="30px;" src="res/ic_AgingHelper.png"> AgingHelper](#aginghelper)
 
 
 <img src="res/MEDi_mockup.png"><br>

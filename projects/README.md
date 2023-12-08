@@ -197,7 +197,7 @@ Changjin-Ha<br><br>
 
 - - -
 
-<img src="res/DeepMind_mockup.png"><br>
+<img src="res/DeepMind_mockup.PNG"><br>
 <img width="200px;" src="res/ic_DeepMind.png"><br>
 DeepMind<br>
 =

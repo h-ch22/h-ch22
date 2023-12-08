@@ -4,14 +4,14 @@
 
 📜Index📜
 =
-- [🛠 Techs Stack](#🛠-techs-stack-🛠)
-- [💻 Tools](#💻-tools-💻)
-- [🧑‍💻 Projects](#🧑‍💻-projects-🧑‍💻)
-- [🌱 Learning, Research](#🌱-learning-research)
-- [🏆 Awards](#🏆-awards)
-- [📰 Article](#📰-article)
-- [😊 Contact](#contact-😊)
-- [📈 Statistics](#statistics-📈) 
+- [🛠 Techs Stack](#-techs-stack-)
+- [💻 Tools](#-tools-)
+- [🧑‍💻 Projects](#-projects-)
+- [🌱 Learning, Research](#-learning-research)
+- [🏆 Awards](#-awards)
+- [📰 Article](#-article)
+- [😊 Contact](#contact-)
+- [📈 Statistics](#statistics-) 
 
 🛠 Techs Stack 🛠
 =

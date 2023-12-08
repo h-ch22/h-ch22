@@ -1,5 +1,46 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=🧑‍💻Projects&fontSize=90)
 
+<img align="left" float="left" width="200px" src="res/img_profile.jpg">
+<h1>&nbsp;Changjin Ha</h1><br>
+<b>&nbsp;👨🏻‍💻 Profile:</b> Full-Stack Developer / Software Engineer<br>
+<b>&nbsp;✉️ E-Mail:</b> ckdwls9460@gmail.com<br>
+<h2>&nbsp;🛠 SKILLS</h2>
+
+<div align="center">
+<img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c%23&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-db8036?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-df5d43?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
+</div>
+
+___
+
+<div clear="both">
+
+📜Index📜
+=
+- [<img width="30px;" src="res/ic_MEDi.png"> MEDi](#medi)
+- [<img width="30px;" src="res/ic_JBNUCOE.png"> JBNU COE](#jbnu-coe)
+- [<img width="30px;" src="res/ic_SOZIP.png"> 소집 : SOZIP](#소집--sozip)
+- [<img width="30px;" src="res/ic_OFFIT.png"> OFF:IT](#offit)
+- [<img width="30px;" src="res/ic_HoosaengOrder.png"> 후생관 오더](#후생관-오더)
+- [<img width="30px;" src="res/ic_JBNUCH.png"> JBNU CH](#jbnu-ch)
+- [<img width="30px;" src="res/ic_ScalpChecker.png"> Scalp Checker](#scalp-checker)
+- [<img width="30px;" src="res/ic_DysarthriaChecker.png"> Dysarthria Checker](#dysarthria-checker)
+- [<img width="30px;" src="res/ic_DeepMind.png"> DeepMind](#deepmind)
+- [<img width="30px;" src="res/ic_SBL.png"> Jeonbuk National University SmartBiophotonics Lab.](#jeonbuk-national-university-smart-biophotonics-lab)
+- [<img width="30px;" src="res/ic_agingHelper.png"> AgingHelper](#aginghelper)
+
+
 <img src="res/MEDi_mockup.png"><br>
 <img width="200px;" src="res/ic_MEDi.png"><br>
 MEDi<br>
@@ -305,3 +346,5 @@ Changjin-Ha<br>
 
 ## 📱 Products
 [Android Source Code](https://github.com/h-ch22/AgingHelper_Android)<br><br>
+
+</div>

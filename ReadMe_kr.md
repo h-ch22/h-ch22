@@ -1,6 +1,17 @@
 [English](https://github.com/h-ch22/) </br>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=반가워요!👋🏻&fontSize=90)
 
+📜README 미리보기📜
+=
+- [🛠 기술 스텍](#🛠-기술-스택-🛠)
+- [💻 도구](#💻-도구-💻)
+- [🧑‍💻 프로젝트](#🧑‍💻-프로젝트-🧑‍💻)
+- [🌱 학업, 연구](#🌱-학업-연구)
+- [🏆 수상](#🏆-수상)
+- [📰 기사](#📰-기사)
+- [😊 연락하기](#언제든-연락해주세요-😊)
+- [📈 통계](#통계-📈) 
+
 🛠 기술 스택 🛠
 =
 최소 한번 이상의 프로젝트를 진행한 기술들입니다 😏
@@ -30,6 +41,10 @@
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
+
+🧑‍💻 프로젝트 🧑‍💻
+=
+프로젝트들을 보고싶으신가요? [링크를 클릭해보세요!](./projects/README.md)<br>
 
 🌱 학업, 연구
 =

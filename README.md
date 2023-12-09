@@ -17,6 +17,7 @@
 =
 Techs that I've used at least once 😏
 
+<div align="center">
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c%23&logoColor=white"/></a>
@@ -30,10 +31,12 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
-
+</div>
 
 💻 Tools 💻
 =
+
+<div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
@@ -42,6 +45,9 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
+</div>
 
 🧑‍💻 Projects 🧑‍💻
 =
@@ -72,19 +78,16 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |🥇 1st|2021. Jeonbuk National University|Production of short-form promotional video content for Joenbuk National University (Changjin-Ha, Hayeong-Lee)|Award of President, Jeonbuk National University|
 |🥈Silver Award|2023. Summer, KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Silver Award|
 |🥇 1st|2023. Fall, RESKO, Paper Contest for College Students|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|Award of President, RESKO|
-|🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang)](https://github.com/yujeecatherine)|Award of Chairman, SWKorea|
+|🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine))|Award of Chairman, SWKorea|
 |🥈Excellent Award|2023. Jeonbuk Center for Creative Economy & Innovation|Video content production to promote and revitalize youth policies (Changjin-Ha, Jisoo-Park, Hwaram-Park)|Award of President, Jeonbuk Center for Creative Economy & Innovation|</br>
 
 📰 Article
 =
-‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021</br>
-https://www.jbpresscenter.com/news/articleView.html?idxno=501197 </br></br>
+[‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021](https://www.jbpresscenter.com/news/articleView.html?idxno=501197)</br>
 
-“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021</br>
-https://magazine.hankyung.com/job-joy/amp/202106086136d </br></br>
+[“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021](https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
 
-숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022</br>
-https://www.jbpresscenter.com/news/articleView.html?idxno=501903 </br>
+[숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022](https://www.jbpresscenter.com/news/articleView.html?idxno=501903)</br>
 
 Contact? 😊
 =
@@ -92,10 +95,11 @@ Contact? 😊
 
 Statistics 📈
 =  
-<a href="https://github.com/h-ch22/github-readme-stats&layout=compact&theme=cobalt">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ch22&layout=compact&theme=cobalt"/>
-</a>
-  
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwls9460">
+
+</div>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg) </br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) </br>

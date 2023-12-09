@@ -16,6 +16,7 @@
 =
 최소 한번 이상의 프로젝트를 진행한 기술들입니다 😏
 
+<div align="center">
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a>
@@ -29,10 +30,12 @@
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
-
+</div>
 
 💻 도구 💻
 =
+
+<div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
@@ -41,6 +44,9 @@
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
+</div>
 
 🧑‍💻 프로젝트 🧑‍💻
 =
@@ -76,14 +82,11 @@
 
 📰 기사
 =
-‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021</br>
-https://www.jbpresscenter.com/news/articleView.html?idxno=501197 </br></br>
+[‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021](https://www.jbpresscenter.com/news/articleView.html?idxno=501197)</br>
 
-“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021</br>
-https://magazine.hankyung.com/job-joy/amp/202106086136d </br></br>
+[“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021](https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
 
-숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022</br>
-https://www.jbpresscenter.com/news/articleView.html?idxno=501903 </br>
+[숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022](https://www.jbpresscenter.com/news/articleView.html?idxno=501903)</br>
 
 언제든 연락해주세요! 😊
 =
@@ -91,10 +94,11 @@ https://www.jbpresscenter.com/news/articleView.html?idxno=501903 </br>
 
 통계 📈
 =  
-<a href="https://github.com/h-ch22/github-readme-stats&layout=compact&theme=cobalt">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ch22&layout=compact&theme=cobalt"/>
-</a>
-  
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwls9460">
+
+</div>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg) </br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) </br>

@@ -7,7 +7,7 @@
 - [🛠 Techs Stack](#-techs-stack-)
 - [🎨 UI Techs Stack](#-ui-techs-stack-)
 - [💻 Tools](#-tools-)
-- [🖌️ UI Design Tools](#-ui-design-tools-)
+- [🖌️ UI Design Tools](#%EF%B8%8F-ui-design-tools-%EF%B8%8F)
 - [🧑‍💻 Projects](#-projects-)
 - [🌱 Learning, Research](#-learning-research)
 - [🏆 Awards](#-awards)

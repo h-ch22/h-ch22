@@ -3,7 +3,7 @@
 
 📜미리보기📜
 =
-- [🛠 기술 스텍](#-기술-스택-)
+- [🛠 기술 스택](#-기술-스택-)
 - [💻 도구](#-도구-)
 - [🧑‍💻 프로젝트](#-프로젝트-)
 - [🌱 학업, 연구](#-학업-연구)
@@ -19,7 +19,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
 <img src="https://img.shields.io/badge/Java-db8036?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-df5d43?style=flat-square&logo=Kotlin&logoColor=white"/></a>

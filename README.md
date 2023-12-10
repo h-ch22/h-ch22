@@ -40,7 +40,7 @@ Techs that I've used at least once 😏
 🎨 UI Techs Stack 🎨
 =
 <div align="center">
-<img src="https://img.shields.io/badge/iOS%20Storyboard-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/iOS%20UIKit-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SwiftUI-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Android&logoColor=white"/></a>

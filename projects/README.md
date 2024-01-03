@@ -49,6 +49,7 @@ ___
 - [<img width="30px;" src="res/ic_DeepMind.png"> DeepMind](#deepmind)
 - [<img width="30px;" src="res/ic_SBL.png"> Jeonbuk National University SmartBiophotonics Lab.](#jeonbuk-national-university-smart-biophotonics-lab)
 - [<img width="30px;" src="res/ic_AgingHelper.png"> AgingHelper](#aginghelper)
+- [<img width="30px;" src="res/ic_lifeChecker.png"> LifeChecker](#life-checker)
 
 
 <img src="res/MEDi_mockup.png"><br>
@@ -115,9 +116,9 @@ https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Android Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Android)<br>
-[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/JBNUCOE_iOS)<br>
-[Windows Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Admin)<br><br>
+[Android Source Code](https://github.com/h-ch22/JBNUCOE_Android)<br>
+[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCOE_iOS)<br>
+[Windows (Admin) Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Admin)<br><br>
 
 - - -
 <img src="res/SOZIP_mockup.png"><br>
@@ -333,7 +334,7 @@ Jeonbuk National University Smart Biophotonics Lab.<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Web Source Code (Private)](https://github.com/h-ch22/SBL_Web)<br><br>
+[Web Source Code](https://github.com/h-ch22/SBL_Web)<br><br>
 
 - - -
 
@@ -344,9 +345,30 @@ AgingHelper<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
+
+## 🗓️ Period
+🗓️ <b>2023.12. ~ 2023.12.<br>
+
+## ☑️ Results
+✖️ <b>Deprecated (Reason: Low Accuracy, too large model, Model does not compatible with Torchscript)<br>
+
+## 👩‍👧‍👦 People
+Changjin-Ha<br>
+
+## 📱 Products
+[Android Source Code](https://github.com/h-ch22/AgingHelper_Android)<br><br>
+
+- - -
+
+<img width="200px;" src="res/ic_lifeChecker.png"><br>
+Life Checker<br>
+=
+> Use ML to preview the future of your precious person or provide improved facial recognition.<br>
+
+## 🛠️ Technologies
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
 
 ## 🗓️ Period
 🗓️ <b>2023.12. ~ Current<br>
@@ -355,9 +377,6 @@ AgingHelper<br>
 ☑️ <b>In Progress<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br>
-
-## 📱 Products
-[Android Source Code](https://github.com/h-ch22/AgingHelper_Android)<br><br>
+Changjin-Ha, Hwaram-Park<br>
 
 </div>

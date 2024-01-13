@@ -277,8 +277,8 @@ Dysarthria Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DysarthriaChecker_iOS)<br>
-[DeepLearning Source Code (Private)](https://github.com/h-ch22/DysarthriaChecker)<br><br>
+[iOS/iPadOS Source Code](https://github.com/h-ch22/DysarthriaChecker_iOS)<br>
+[DeepLearning Source Code](https://github.com/h-ch22/DysarthriaChecker)<br><br>
 
 - - -
 

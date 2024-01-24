@@ -82,7 +82,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 =
 |Agency|Subject|Period|
 |------|------|-----|
-|Jeonbuk National University|Dept. of Software Engineering (SWE)|2018-Current|
+|Jeonbuk National University|Dept. of Software Engineering (SWE)|2018-2023|
 |LG AI Research|2nd Period, LG Aimers|2022-2023|
 |Jeonbuk National University|Smart Biophotonics Lab.|2023-Current|
 |KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|2023. Spring|
@@ -90,6 +90,8 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |HRDK|Engineer Information Processing Certificate|2023|
 |RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|2023. Fall|
 |KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation|2023. Fall|
+|Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
+|Jeonbuk National University|BS Graduate Expected, Dept. of Software Engineering (SWE)|Feb. 2024|
 
 🏆 Awards
 =

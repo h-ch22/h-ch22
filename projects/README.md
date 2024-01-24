@@ -3,6 +3,7 @@
 <img align="left" float="left" width="200px" src="res/img_profile.jpg">
 <h1>&nbsp;Changjin Ha</h1><br>
 <b>&nbsp;👨🏻‍💻 Profile:</b> Full-Stack Developer / Software Engineer<br>
+<b>&nbsp;👨‍🎓 Degree:</b> Feb. 2024 / Bachelor of Science in Software Engineering, Jeonbuk National University (Expected)<br> 
 <b>&nbsp;✉️ E-Mail:</b> ckdwls9460@gmail.com<br>
 <h2>&nbsp;🛠 SKILLS</h2>
 

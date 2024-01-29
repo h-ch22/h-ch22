@@ -362,22 +362,26 @@ Changjin-Ha<br>
 
 - - -
 
-<img width="200px;" src="res/ic_lifeChecker.png"><br>
-Life Checker<br>
+<img width="200px;" src="res/ic_dementiaChecker.png"><br>
+Dementia Checker<br>
 =
-> Use ML to preview the future of your precious person or provide improved facial recognition.<br>
+> Deep learning-based dementia diagnosis application using intelligence test, sleep, and lifestyle data<br>
 
 ## 🛠️ Technologies
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2023.12. ~ Current<br>
+🗓️ <b>2024.01. ~ Current<br>
 
 ## ☑️ Results
 ☑️ <b>In Progress<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha, Hwaram-Park<br>
+Changjin-Ha<br>
 
-</div>
+## 📱 Products
+[iOS/iPadOS Source Code](https://github.com/h-ch22/DementiaChecker_iOS)<br>
+[DeepLearning Source Code](https://github.com/h-ch22/DementiaChecker_ML)<br><br>

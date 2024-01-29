@@ -50,7 +50,7 @@ ___
 - [<img width="30px;" src="res/ic_DeepMind.png"> DeepMind](#deepmind)
 - [<img width="30px;" src="res/ic_SBL.png"> Jeonbuk National University SmartBiophotonics Lab.](#jeonbuk-national-university-smart-biophotonics-lab)
 - [<img width="30px;" src="res/ic_AgingHelper.png"> AgingHelper](#aginghelper)
-- [<img width="30px;" src="res/ic_lifeChecker.png"> LifeChecker](#life-checker)
+- [<img width="30px;" src="res/ic_dementiaChecker.png"> Dementia Checker](#dementia-checker)
 
 
 <img src="res/MEDi_mockup.png"><br>

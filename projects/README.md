@@ -362,6 +362,7 @@ Changjin-Ha<br>
 
 - - -
 
+<img src="res/DementiaChecker_mockup.png"><br>
 <img width="200px;" src="res/ic_dementiaChecker.png"><br>
 Dementia Checker<br>
 =

@@ -375,10 +375,10 @@ Dementia Checker<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2024.01. ~ Current<br>
+🗓️ <b>2024.01. ~ 2024.02.<br>
 
 ## ☑️ Results
-☑️ <b>In Progress<br>
+☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
 Changjin-Ha<br>

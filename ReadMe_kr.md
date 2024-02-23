@@ -91,6 +91,7 @@
 |대한의용생체공학회|한국인 구음장애 환자의 발화데이터를 활용한 질병 예측 및 발음 교정을 위한 모바일 애플리케이션 개발 (하창진, 고태식), Poster Presentation|2023. 추계|
 |전북대학교|항공 · 드론 소프트웨어 엔지니어 과정 (마이크로 디그리)|2024. 01.|
 |전북대학교|학사 졸업 / 소프트웨어공학과|2024. 02.|
+|Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|2024|
 
 🏆 수상
 =

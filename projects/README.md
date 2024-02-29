@@ -242,14 +242,15 @@ Scalp Checker<br>
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
 📑 <b>Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Spring<br>
+📑 <b>[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi), Applied Sciences, 2024](https://www.mdpi.com/2076-3417/14/5/1734)<br>
 
 ## 👩‍👧‍👦 People
 Changjin-Ha<br>
 
 ## 📱 Products
-[Windows Source Code (Private)](https://github.com/h-ch22/ScalpChecker_Windows)<br>
-[Python Source Code (Private)](https://github.com/h-ch22/ScalpChecker_Python)<br>
-[Additional Software Source Code (Private)](https://github.com/h-ch22/ScalpChecker_GPUCompatibility)<br><br>
+[Windows Source Code](https://github.com/h-ch22/ScalpChecker_Windows)<br>
+[Python Executable Module Source Code](https://github.com/h-ch22/ScalpChecker_Python)<br>
+[Additional Software Source Code](https://github.com/h-ch22/ScalpChecker_GPUCompatibility)<br><br>
 
 - - -
 
@@ -335,7 +336,8 @@ Jeonbuk National University Smart Biophotonics Lab.<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Web Source Code](https://github.com/h-ch22/SBL_Web)<br><br>
+[Web Source Code](https://github.com/h-ch22/SBL_Web)<br>
+[Visit Website](https://sbl-web.web.app)<br><br>
 
 - - -
 
@@ -384,5 +386,5 @@ Dementia Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code](https://github.com/h-ch22/DementiaChecker_iOS)<br>
-[DeepLearning Source Code](https://github.com/h-ch22/DementiaChecker_ML)<br><br>
+[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DementiaChecker_iOS)<br>
+[DeepLearning Source Code (Private)](https://github.com/h-ch22/DementiaChecker_ML)<br><br>

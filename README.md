@@ -84,7 +84,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |------|------|-----|
 |Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|
 |LG AI Research|2nd Period, LG Aimers|Dec. 2022 - Feb. 2023|
-|Jeonbuk National University|Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
+|Jeonbuk National University|Undergraduate Research Student, Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
 |KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|2023. Spring|
 |KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|2023. Summer|
 |HRDK|Engineer Information Processing Certificate|2023|

@@ -92,7 +92,8 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation|2023. Fall|
 |Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
 |Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
-|Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|2024|
+|Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
+|Journal of Biomedical Engineering Research, KOSOMBE|[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|Feb. 2024|
 
 🏆 Awards
 =

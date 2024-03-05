@@ -274,6 +274,7 @@ Dysarthria Checker<br>
 ☑️ <b>Done for all features<br>
 🥇 <b>1st (Award of President, RESKO), Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go), Paper Contest for College Students, RESKO, 2023. Fall<br>
 📑 <b>Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Fall<br>
+📑 <b>[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria, Journal of Biomedical Engineering Research, Feb. 2024](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)<br>
 
 ## 👩‍👧‍👦 People
 Changjin-Ha<br>

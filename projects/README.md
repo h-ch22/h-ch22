@@ -4,6 +4,7 @@
 <h1>&nbsp;Changjin Ha</h1><br>
 <b>&nbsp;👨🏻‍💻 Profile:</b> Full-Stack Developer / Software Engineer<br>
 <b>&nbsp;👨‍🎓 Degree:</b> Feb. 2024 / BS, Software Engineering, Jeonbuk National University<br> 
+<b>&nbsp;🎯 Current:</b> Mar. 2024 - / BS Researcher, Smart Biophotonics Lab., Jeonbuk National University Hospital<br>
 <b>&nbsp;✉️ E-Mail:</b> ckdwls9460@gmail.com<br>
 <h2>&nbsp;🛠 SKILLS</h2>
 

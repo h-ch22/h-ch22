@@ -78,13 +78,13 @@ Techs that I've used at least once 😏
 =
 Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 
-🌱 Learning, Research
+🌱 Learning, Research, Work
 =
 |Agency|Subject|Period|
 |------|------|-----|
-|Jeonbuk National University|Dept. of Software Engineering (SWE)|2018-2023|
-|LG AI Research|2nd Period, LG Aimers|2022-2023|
-|Jeonbuk National University|Smart Biophotonics Lab.|2023-Current|
+|Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|
+|LG AI Research|2nd Period, LG Aimers|Dec. 2022 - Feb. 2023|
+|Jeonbuk National University|Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
 |KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|2023. Spring|
 |KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|2023. Summer|
 |HRDK|Engineer Information Processing Certificate|2023|
@@ -94,6 +94,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
 |Journal of Biomedical Engineering Research, KOSOMBE|[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|Feb. 2024|
+|Jeonbuk National University Hospital|BS Researcher, Smart Biophotonics Lab.|Mar. 2024 - Current|
 
 🏆 Awards
 =

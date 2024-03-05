@@ -81,9 +81,9 @@
 =
 |기관|주제|기간|
 |-----------|-----------|----------|
-|전북대학교|소프트웨어공학과 (학사 과정)|2018-2023|
-|LG AI 연구원|LG Aimers 2기|2022-2023|
-|전북대학교|Smart Biophotonics Lab.|2023-현재|
+|전북대학교|소프트웨어공학과 (학사)|2018. 03. - 2024. 02.|
+|LG AI 연구원|LG Aimers 2기|2022. 12. - 2023. 02.|
+|전북대학교|Smart Biophotonics Lab.|2023. 01. - 2024. 02.|
 |대한의용생체공학회|설명가능한 인공지능을 활용한 두피 상태 진단 소프트웨어 개발 (하창진, 고태식), Poster Presentation|2023. 춘계|
 |한국정보기술학회|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발([남윤수](https://github.com/namyounsu)* , [김세창](https://github.com/winersch)* , [김재현](https://github.com/kiku99)* , [김현수](https://github.com/kimhyun5u)* , 하창진* , 최선오** , 유철중**)|2023. 하계|
 |한국산업인력공단|정보처리기사 취득|2023|
@@ -93,6 +93,7 @@
 |전북대학교|학사 졸업 / 소프트웨어공학과|2024. 02.|
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|2024. 02.|
 |의공학회지, 대한의용생체공학회|[한국인 구음장애 환자의 발화 데이터 기반 질병 예측을 위한 모바일 애플리케이션 개발 (하창진, 고태식)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|2024. 02.|
+|전북대학교병원|학사 연구원, Smart Biophotonics Lab.|2024. 03. - 현재|
 
 🏆 수상
 =

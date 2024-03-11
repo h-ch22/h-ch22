@@ -94,7 +94,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
 |Journal of Biomedical Engineering Research, KOSOMBE|[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|Feb. 2024|
-|Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher, Smart Biophotonics Lab.|Mar. 2024 - Current|
+|Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Current|
 
 🏆 Awards
 =

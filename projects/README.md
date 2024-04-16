@@ -78,7 +78,7 @@ MEDi<br>
 ☑️ <b>Published on Google Play<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), †Hayeon-Oh(23.06.30.), et al.<br>
+Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), Sojung Moon, †Hayeon-Oh(23.06.30.), et al.<br>
 
 ## 📱 Products
 [Android Source Code](https://github.com/h-ch22/MEDi_Android)<br>
@@ -144,7 +144,7 @@ Changjin-Ha<br>
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha<br>
+Changjin-Ha, Sojung Moon<br>
 
 ## 📱 Products
 [Android Source Code](https://github.com/h-ch22/SOZIP_Android)<br>
@@ -169,7 +169,7 @@ OFF:IT<br>
 🥉 <b>Encouragement Award (Award of President, SWKorea), 2021.K-Hackathon, SWKorea<br>
 
 ## 👩‍👧‍👦 People
-Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, et al.<br><br>
+Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, Sojung Moon<br><br>
 
 - - -
 <img src="res/HoosaengOrder_mockup.png"><br>

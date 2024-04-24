@@ -12,6 +12,7 @@
 - [🌱 Learning, Research](#-learning-research)
 - [🏆 Awards](#-awards)
 - [📰 Article](#-article)
+- [✒️ 논문](#✒️-publications)
 - [😊 Contact](#contact-)
 - [📈 Statistics](#statistics-) 
 

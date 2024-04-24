@@ -46,7 +46,7 @@ ___
 - [<img width="30px;" src="res/ic_OFFIT.png"> OFF:IT](#offit)
 - [<img width="30px;" src="res/ic_HoosaengOrder.png"> 후생관 오더](#후생관-오더)
 - [<img width="30px;" src="res/ic_JBNUCH.png"> JBNU Student Council](#jbnu-student-council)
-- [<img width="30px;" src="res/ic_GT.png"> GT: Go Together](#gt-go-together)
+- [<img width="30px;" src="res/ic_GT.png"> GT: Go Together](#gt-go-together-outsourcing)
 - [<img width="30px;" src="res/ic_ScalpChecker.png"> Scalp Checker](#scalp-checker)
 - [<img width="30px;" src="res/ic_DysarthriaChecker.png"> Dysarthria Checker](#dysarthria-checker)
 - [<img width="30px;" src="res/ic_DeepMind.png"> DeepMind](#deepmind)

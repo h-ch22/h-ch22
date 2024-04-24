@@ -119,6 +119,17 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 
 [숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022](https://www.jbpresscenter.com/news/articleView.html?idxno=501903)</br>
 
+✒️ Publications
+=
+|Journal|Journal Name|Subject|
+|-----|-----|-----|
+|Domestic Conference|The Korean Society of Medical & Biological Engineering (Spring, 2023)|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go)|
+|Domestic Conference|Korean Institute of Information Technology (Summer, 2023)|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant (Younsu Nam, Sechang Kim, Jaehyeon Kim, Hyunsu Kim, Changin Ha, Sunoh Choi and Cheoljung Yoo)|
+|Domestic Conference|Rehabilitation Engineering And Assistive Technology Society of Korea (Fall, 2023)|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|
+|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2023)|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go)|
+|International Journal|Applied Sciences|Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)|
+|Domestic Journal|Journal of Biomedical Engineering Research, KOSOMBE|Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)|
+
 Contact? 😊
 =
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>

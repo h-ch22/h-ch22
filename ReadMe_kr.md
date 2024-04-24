@@ -118,6 +118,17 @@
 
 [숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022](https://www.jbpresscenter.com/news/articleView.html?idxno=501903)</br>
 
+✒️ 논문
+=
+|저널|저널 이름|논문 제목|
+|-----|-----|-----|
+|국내 학회|대한의용생체공학회 (2023 춘계)|설명가능한 인공지능을 활용한 두피 상태 진단 소프트웨어 개발 (하창진, 고태식)|
+|국내 학회|한국정보기술학회 (2023 하계)|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발 (남윤수, 김세창, 김재현, 김현수, 하창진, 최선오, 유철중)|
+|국내 학회|한국재활복지공학회 (2023 추계)|한국어 구음장애 진단 및 재활을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|
+|국내 학회|대한의용생체공학회 (2023 추계)|한국인 구음장애 환자의 발화데이터를 활용한 질병 예측 및 발음 교정을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|
+|국제 저널|Applied Sciences|Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)|
+|국내 저널|의공학회지, 대한의용생체공학회|한국인 구음장애 환자의 발화 데이터 기반 질병 예측을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|
+
 언제든 연락해주세요! 😊
 =
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>

@@ -45,7 +45,8 @@ ___
 - [<img width="30px;" src="res/ic_SOZIP.png"> 소집 : SOZIP](#소집--sozip)
 - [<img width="30px;" src="res/ic_OFFIT.png"> OFF:IT](#offit)
 - [<img width="30px;" src="res/ic_HoosaengOrder.png"> 후생관 오더](#후생관-오더)
-- [<img width="30px;" src="res/ic_JBNUCH.png"> JBNU CH](#jbnu-ch)
+- [<img width="30px;" src="res/ic_JBNUCH.png"> JBNU Student Council](#jbnu-student-council)
+- [<img width="30px;" src="res/ic_GT.png"> GT: Go Together](#gt-go-together)
 - [<img width="30px;" src="res/ic_ScalpChecker.png"> Scalp Checker](#scalp-checker)
 - [<img width="30px;" src="res/ic_DysarthriaChecker.png"> Dysarthria Checker](#dysarthria-checker)
 - [<img width="30px;" src="res/ic_DeepMind.png"> DeepMind](#deepmind)
@@ -81,8 +82,8 @@ MEDi<br>
 Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), Sojung Moon, †Hayeon-Oh(23.06.30.), et al.<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/MEDi_Android)<br>
-[iOS/iPadOS Source Code](https://github.com/h-ch22/MEDi_iOS)<br><br>
+[Android Source Code](https://github.com/h-ch22/MEDi_Android)
+[iOS/iPadOS Source Code](https://github.com/h-ch22/MEDi_iOS)<br>
 
 - - -
 
@@ -118,9 +119,11 @@ https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/JBNUCOE_Android)<br>
-[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCOE_iOS)<br>
-[Windows (Admin) Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Admin)<br><br>
+[Android Source Code](https://github.com/h-ch22/JBNUCOE_Android)
+[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCOE_iOS)
+[Windows (Admin) Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Admin)
+[View on Google Play](https://play.google.com/store/apps/details?id=kr.ac.jbnu.coe&hl=ko&gl=US)
+[View on AppStore](https://apps.apple.com/kr/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EA%B3%B5%EB%8C%80/id1549231899)<br>
 
 - - -
 <img src="res/SOZIP_mockup.png"><br>
@@ -147,8 +150,8 @@ Changjin-Ha<br>
 Changjin-Ha, Sojung Moon<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/SOZIP_Android)<br>
-[iOS/iPadOS Source Code](https://github.com/h-ch22/SOZIP_iOS)<br><br>
+[Android Source Code](https://github.com/h-ch22/SOZIP_Android)
+[iOS/iPadOS Source Code](https://github.com/h-ch22/SOZIP_iOS)<br>
 
 - - -
 <img src="res/OFFIT_mockup.png"><br>
@@ -195,7 +198,7 @@ Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Seunga-Park.<br><
 
 <img src="res/JBNUCH_mockup.png"><br>
 <img width="200px;" src="res/ic_JBNUCH.png"><br>
-JBNU CH<br>
+JBNU Student Council<br>
 =
 > An official mobile application of Jeonbuk National University Student Council. get notice and welfare for fastest<br>
 
@@ -220,8 +223,41 @@ JBNU CH<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/JBNUCH_Android)<br>
-[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCH_iOS)<br><br>
+[Android Source Code](https://github.com/h-ch22/JBNUCH_Android)
+[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCH_iOS)
+[View on Google Play](https://play.google.com/store/apps/details?id=kr.ac.jbnu.ch&hl=ko&gl=US)
+[View on AppStore](https://apps.apple.com/au/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1565724174)<br>
+
+- - -
+
+<img src="res/GT_mockup.png"><br>
+<img width="200px;" src="res/ic_GT.png"><br>
+GT: Go Together (OutSourcing)<br>
+=
+> Global Smart Farm Sculpture Investment<br>
+
+## 🛠️ Technologies
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
+
+## 🗓️ Period
+🗓️ <b>2022.12 ~ 2023.03.<br>
+
+## ☑️ Results
+☑️ <b>Done for all features<br>
+☑️ <b>Published on Google Play, Apple App Store<br>
+
+## 👩‍👧‍👦 People
+Changjin-Ha<br>
+
+## 📱 Products
+[View on Google Play](https://play.google.com/store/apps/details?id=com.cj.gt&hl=ln&gl=US&pli=1)
+[View on AppStore](https://apps.apple.com/kr/app/gt-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%EC%A1%B0%EA%B0%81%ED%88%AC%EC%9E%90/id6447186903)
 
 - - -
 
@@ -282,7 +318,7 @@ Changjin-Ha<br>
 
 ## 📱 Products
 [iOS/iPadOS Source Code](https://github.com/h-ch22/DysarthriaChecker_iOS)<br>
-[DeepLearning Source Code](https://github.com/h-ch22/DysarthriaChecker)<br><br>
+[DeepLearning Source Code (Private)](https://github.com/h-ch22/DysarthriaChecker)<br><br>
 
 - - -
 
@@ -388,5 +424,5 @@ Dementia Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DementiaChecker_iOS)<br>
-[DeepLearning Source Code (Private)](https://github.com/h-ch22/DementiaChecker_ML)<br><br>
+[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DementiaChecker_iOS)
+[DeepLearning Source Code (Private)](https://github.com/h-ch22/DementiaChecker_ML)<br>

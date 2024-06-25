@@ -95,6 +95,7 @@
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|2024. 02.|
 |의공학회지, 대한의용생체공학회|[한국인 구음장애 환자의 발화 데이터 기반 질병 예측을 위한 모바일 애플리케이션 개발 (하창진, 고태식)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|2024. 02.|
 |전북대학교병원 의생명연구원|학사 연구원|2024. 03. - 현재|
+|한국정보과학회|간이정신상태검사, 라이프로그, 수면 데이터를 활용한 딥러닝 기반 치매 진단 모바일 애플리케이션 개발(하창진, 고태식), Poster Presentation|KCC 2024|
 
 🏆 수상
 =
@@ -129,6 +130,7 @@
 |국내 학회|대한의용생체공학회 (2023 추계)|한국인 구음장애 환자의 발화데이터를 활용한 질병 예측 및 발음 교정을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|
 |국제 저널|Applied Sciences|Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)|
 |국내 저널|의공학회지, 대한의용생체공학회|한국인 구음장애 환자의 발화 데이터 기반 질병 예측을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|
+|국내 학회|KCC 2024|간이정신상태검사, 라이프로그, 수면 데이터를 활용한 딥러닝 기반 치매 진단 모바일 애플리케이션 개발 (하창진, 고태식)|
 
 언제든 연락해주세요! 😊
 =

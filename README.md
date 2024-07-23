@@ -96,7 +96,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
 |Journal of Biomedical Engineering Research, KOSOMBE|[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|Feb. 2024|
 |Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Current|
-|KIISE|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Poster Presentation|KCC 2024|
+|KIISE|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Poster Presentation|Korea Computer Congress 2024 (KCC 2024)|
 
 🏆 Awards
 =
@@ -111,7 +111,8 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |🥈Silver Award|2023. Summer, KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Silver Award|
 |🥇 1st|2023. Fall, RESKO, Paper Contest for College Students|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|Award of President, RESKO|
 |🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine))|Award of Chairman, SWKorea|
-|🥈Excellent Award|2023. Jeonbuk Center for Creative Economy & Innovation|Video content production to promote and revitalize youth policies (Changjin-Ha, Jisoo-Park, Hwaram-Park)|Award of President, Jeonbuk Center for Creative Economy & Innovation|</br>
+|🥈Excellent Award|2023. Jeonbuk Center for Creative Economy & Innovation|Video content production to promote and revitalize youth policies (Changjin-Ha, Jisoo-Park, Hwaram-Park)|Award of President, Jeonbuk Center for Creative Economy & Innovation|
+|🥈Excellent Award|Korea Computer Congress 2024|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go)|Award of President, KIISE|</br>
 
 📰 Article
 =

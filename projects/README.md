@@ -55,7 +55,7 @@ ___
 - [<img width="30px;" src="res/ic_dementiaChecker.png"> Dementia Checker](#dementia-checker)
 - [<img width="30px;" src="res/ic_AMUSE.png"> A.MUSE](#amuse)
 - [<img width="30px;" src="res/ic_endoscopyChecker.png"> Endoscopy Checker](#endoscopy-checker)
-- [<img width="30px;" src="res/ic_WakeMe.png"> Wake Me!](#wake-me)
+- [<img width="30px;" src="res/ic_wakeMe.png"> Wake Me!](#wake-me)
 
 
 <img src="res/MEDi_mockup.png"><br>

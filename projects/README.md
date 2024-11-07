@@ -53,6 +53,8 @@ ___
 - [<img width="30px;" src="res/ic_SBL.png"> Jeonbuk National University SmartBiophotonics Lab.](#jeonbuk-national-university-smart-biophotonics-lab)
 - [<img width="30px;" src="res/ic_AgingHelper.png"> AgingHelper](#aginghelper)
 - [<img width="30px;" src="res/ic_dementiaChecker.png"> Dementia Checker](#dementia-checker)
+- [<img width="30px;" src="res/ic_AMUSE.png"> A.MUSE](#amuse)
+- [<img width="30px;" src="res/ic_endoscopyChecker.png"> Endoscopy Checker](#endoscopy-checker)
 
 
 <img src="res/MEDi_mockup.png"><br>
@@ -426,3 +428,58 @@ Changjin-Ha<br>
 ## 📱 Products
 [iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DementiaChecker_iOS)
 [DeepLearning Source Code (Private)](https://github.com/h-ch22/DementiaChecker_ML)<br>
+
+- - -
+
+<img src="res/AMUSE_mockup.png"><br>
+<img width="200px;" src="res/ic_AMUSE.png"><br>
+A.MUSE<br>
+=
+> A complex cultural experience solution using XR technology<br>
+
+## 🛠️ Technologies
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br>
+
+## 🗓️ Period
+🗓️ <b>2024.07. ~ 2024.09.<br>
+
+## ☑️ Results
+☑️ <b>Done for all features<br>
+
+## 👩‍👧‍👦 People
+Changjin-Ha, Hwaram-Park, Jisoo-Park<br>
+
+## 📱 Products
+[iOS/iPadOS Source Code](https://github.com/h-ch22/A.MUSE_iOS)
+[Unreal Source Code](https://github.com/h-ch22/A.MUSE_Unreal)<br>
+
+
+- - -
+
+<img src="res/EndoscopyChecker_mockup.png"><br>
+<img width="200px;" src="res/ic_endoscopyChecker.png"><br>
+Endoscopy Checker<br>
+=
+> Deep learning-based cancer, pressure ulcer, ulcer detection and patient-communication applications in endoscopic images or videos<br>
+
+## 🛠️ Technologies
+<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
+
+## 🗓️ Period
+🗓️ <b>2024.10. ~ Current<br>
+
+## ☑️ Results
+➡️ <b>In Progress<br>
+
+## 👩‍👧‍👦 People
+Changjin-Ha<br>
+
+## 📱 Products
+[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/EndoscopyChecker_iOS)
+[DeepLearning Source Code (Private)](https://github.com/h-ch22/EndoscopyChecker_DL)<br>

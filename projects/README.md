@@ -345,7 +345,6 @@ DeepMind<br>
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
 🏅 <b>Special Award (Award of Chairman, SWKorea), 2023. K-Hackathon, SWKorea<br>
-
 ## 👩‍👧‍👦 People
 Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine)<br>
 
@@ -422,7 +421,7 @@ Dementia Checker<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
-
+🥈 <b>Excellent Award (Award of President, KIISE), Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Korea Computer Congress 2024, KIISE</b>
 ## 👩‍👧‍👦 People
 Changjin-Ha<br>
 

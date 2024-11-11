@@ -90,7 +90,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|2023. Summer|
 |HRDK|Engineer Information Processing Certificate|2023|
 |RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|2023. Fall|
-|KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation|2023. Fall|
+|KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go), Poster Presentation|2023. Fall|
 |Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
 |Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
@@ -98,6 +98,8 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Current|
 |KIISE|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Poster Presentation|Korea Computer Congress 2024 (KCC 2024)|
 |Applied Sciences|[Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)](https://www.mdpi.com/2076-3417/14/16/7124)|Aug. 2024|
+|KOSOMBE|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Tesik Go), Poster Presentation|2024. Fall|
+|2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment (Changjin Ha, Taesik Go), Poster Presentation|Nov. 2024|
 
 🏆 Awards
 =
@@ -130,11 +132,12 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Domestic Conference|The Korean Society of Medical & Biological Engineering (Spring, 2023)|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go)|
 |Domestic Conference|Korean Institute of Information Technology (Summer, 2023)|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant (Younsu Nam, Sechang Kim, Jaehyeon Kim, Hyunsu Kim, Changin Ha, Sunoh Choi and Cheoljung Yoo)|
 |Domestic Conference|Rehabilitation Engineering And Assistive Technology Society of Korea (Fall, 2023)|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|
-|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2023)|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go)|
+|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2023)|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go)|
 |International Journal|Applied Sciences|Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)|
 |Domestic Journal|Journal of Biomedical Engineering Research, KOSOMBE|Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)|
 |Domestic Conference|KCC 2024|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go)|
 |International Journal|Applied Sciences|Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)|
+|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2024)|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Taesik Go)|
 
 Contact? 😊
 =

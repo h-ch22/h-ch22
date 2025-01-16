@@ -115,7 +115,8 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |🥇 1st|2023. Fall, RESKO, Paper Contest for College Students|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|Award of President, RESKO|
 |🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine))|Award of Chairman, SWKorea|
 |🥈Excellent Award|2023. Jeonbuk Center for Creative Economy & Innovation|Video content production to promote and revitalize youth policies (Changjin-Ha, Jisoo-Park, Hwaram-Park)|Award of President, Jeonbuk Center for Creative Economy & Innovation|
-|🥈Excellent Award|Korea Computer Congress 2024|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go)|Award of President, KIISE|</br>
+|🥈Excellent Award|Korea Computer Congress 2024|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go)|Award of President, KIISE|
+|🥇Excellent Paper Award|Journal of Biomedical Engineering Research, KOSOMBE|Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)|Award of President, KOSOMBE|<br>
 
 📰 Article
 =

@@ -315,6 +315,7 @@ Dysarthria Checker<br>
 🥇 <b>1st (Award of President, RESKO), Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go), Paper Contest for College Students, RESKO, 2023. Fall<br>
 📑 <b>Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Fall<br>
 📑 <b>[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria, Journal of Biomedical Engineering Research, Feb. 2024](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)<br>
+🥇 <b>Excellent Paper Award (Award of President, KOSOMBE), Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go), Journal of Biomedical Engineering Research, KOSOMBE, 2024<br>	
 
 ## 👩‍👧‍👦 People
 Changjin-Ha<br>
@@ -509,3 +510,55 @@ Changjin-Ha<br>
 ## 📱 Products
 [iOS/iPadOS Source Code](https://github.com/h-ch22/Wake-Me-iOS)
 [DeepLearning Source Code (Expected)](https://github.com/h-ch22/Wake-Me-DL)<br>
+
+- - -
+
+<img src="res/Mockup_RomanowskyStainSlideAnalyzer.png"><br>
+<img width="200px;" src="res/ic_romanowskyStainSlideAnalyzer.png"><br>
+Romanowsky Stain Slide Analyzer for Windows<br>
+=
+> Segmentation & Labeling Tool for Data Training and Verification Exclusive to Romanowsky Stain Slide Analyzer, Powered by SAM<br>
+
+## 🛠️ Technologies
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
+
+## 🗓️ Period
+🗓️ <b>2024.11. ~ 2025.01.<br>
+
+## ☑️ Results
+☑️ <b>Done for all features<br>
+
+## 👩‍👧‍👦 People
+Changjin-Ha<br>
+
+## 📱 Products
+[Windows Source Code (Private)](https://github.com/h-ch22/RomanowskyStainSlideAnalyzer_Windows)<br>
+
+- - -
+
+<img src="res/mockup_SwirlingChecker.png"><br>
+<img width="200px;" src="res/ic_swirlingChecker.png"><br>
+Swirling Checker<br>
+=
+> Detect the swirling phenomenon of liquid using OpenCV.<br>
+
+## 🛠️ Technologies
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"><br>
+
+## 🗓️ Period
+🗓️ <b>2025.01. ~ 2025.01.<br>
+
+## ☑️ Results
+☑️ <b>Done for all features<br>
+
+## 👩‍👧‍👦 People
+Changjin-Ha<br>
+
+## 📱 Products
+[Windows Source Code (Private)](https://github.com/h-ch22/SwirlingChecker_Windows)<br>

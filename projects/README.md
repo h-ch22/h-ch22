@@ -56,6 +56,8 @@ ___
 - [<img width="30px;" src="res/ic_AMUSE.png"> A.MUSE](#amuse)
 - [<img width="30px;" src="res/ic_endoscopyChecker.png"> Endoscopy Checker](#endoscopy-checker)
 - [<img width="30px;" src="res/ic_wakeMe.png"> Wake Me!](#wake-me)
+- [<img width="30px;" src="res/ic_romanowskyStainSlideAnalyzer.png"> Romanowsky Stain Slide Analyzer](#romanowsky-stain-slide-analyzer-for-windows)
+- [<img width="30px;" src="res/ic_swirlingChecker.png"> Swirling Checker](#swirling-checker)
 
 
 <img src="res/MEDi_mockup.png"><br>
@@ -85,8 +87,21 @@ MEDi<br>
 Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), Sojung Moon, †Hayeon-Oh(23.06.30.), et al.<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/MEDi_Android)
-[iOS/iPadOS Source Code](https://github.com/h-ch22/MEDi_iOS)<br>
+<div>
+<a href="https://github.com/h-ch22/MEDi_Android">
+    <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/MEDi_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+</a>
+</div>
+
+<div>
+<a href="https://play.google.com/store/apps/details?id=com.PANDEMIC.MEDi&hl=ko&gl=US">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
+</a>
+</div>
 
 - - -
 
@@ -122,11 +137,27 @@ https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/JBNUCOE_Android)
-[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCOE_iOS)
-[Windows (Admin) Source Code (Private)](https://github.com/h-ch22/JBNUCOE_Admin)
-[View on Google Play](https://play.google.com/store/apps/details?id=kr.ac.jbnu.coe&hl=ko&gl=US)
-[View on AppStore](https://apps.apple.com/kr/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EA%B3%B5%EB%8C%80/id1549231899)<br>
+<div>
+<a href="https://github.com/h-ch22/JBNUCOE_Android">
+    <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/JBNUCOE_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/JBNUCOE_Admin">
+    <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat&logo=Windows&logoColor=white"/>
+</a>
+</div>
+
+<div>
+<a href="https://play.google.com/store/apps/details?id=kr.ac.jbnu.coe&hl=ko&gl=US">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
+</a>
+
+<a href="https://apps.apple.com/kr/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EA%B3%B5%EB%8C%80/id1549231899">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnAppStore.svg"/>
+</a>
+</div>
 
 - - -
 <img src="res/SOZIP_mockup.png"><br>
@@ -153,8 +184,14 @@ Changjin-Ha<br>
 Changjin-Ha, Sojung Moon<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/SOZIP_Android)
-[iOS/iPadOS Source Code](https://github.com/h-ch22/SOZIP_iOS)<br>
+<div>
+<a href="https://github.com/h-ch22/SOZIP_Android">
+    <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/SOZIP_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+</div>
 
 - - -
 <img src="res/OFFIT_mockup.png"><br>
@@ -226,10 +263,24 @@ JBNU Student Council<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/JBNUCH_Android)
-[iOS/iPadOS Source Code](https://github.com/h-ch22/JBNUCH_iOS)
-[View on Google Play](https://play.google.com/store/apps/details?id=kr.ac.jbnu.ch&hl=ko&gl=US)
-[View on AppStore](https://apps.apple.com/au/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1565724174)<br>
+<div>
+<a href="https://github.com/h-ch22/JBNUCH_Android">
+    <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/JBNUCH_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+</div>
+
+<div>
+<a href="https://play.google.com/store/apps/details?id=kr.ac.jbnu.ch&hl=ko&gl=US">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
+</a>
+
+<a href="https://apps.apple.com/au/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1565724174">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnAppStore.svg"/>
+</a>
+</div>
 
 - - -
 
@@ -259,8 +310,15 @@ GT: Go Together (OutSourcing)<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[View on Google Play](https://play.google.com/store/apps/details?id=com.cj.gt&hl=ln&gl=US&pli=1)
-[View on AppStore](https://apps.apple.com/kr/app/gt-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%EC%A1%B0%EA%B0%81%ED%88%AC%EC%9E%90/id6447186903)
+<div>
+<a href="https://play.google.com/store/apps/details?id=com.cj.gt&hl=ln&gl=US&pli=1">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
+</a>
+
+<a href="https://apps.apple.com/kr/app/gt-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%EC%A1%B0%EA%B0%81%ED%88%AC%EC%9E%90/id6447186903">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnAppStore.svg"/>
+</a>
+</div>
 
 - - -
 
@@ -288,9 +346,17 @@ Scalp Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Windows Source Code](https://github.com/h-ch22/ScalpChecker_Windows)<br>
-[Python Executable Module Source Code](https://github.com/h-ch22/ScalpChecker_Python)<br>
-[Additional Software Source Code](https://github.com/h-ch22/ScalpChecker_GPUCompatibility)<br><br>
+<div>
+<a href="https://github.com/h-ch22/ScalpChecker_Windows">
+    <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat&logo=Windows&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/ScalpChecker_Python">
+    <img src="https://img.shields.io/badge/Source_Code-Python_Executable_Module-blue?style=flat&logo=Python&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/ScalpChecker_GPUCompatibility">
+    <img src="https://img.shields.io/badge/Source_Code-GPU_Compatibility_Checker-blue?style=flat&logo=Python&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -321,8 +387,14 @@ Dysarthria Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code](https://github.com/h-ch22/DysarthriaChecker_iOS)<br>
-[DeepLearning Source Code (Private)](https://github.com/h-ch22/DysarthriaChecker)<br><br>
+<div>
+<a href="https://github.com/h-ch22/DysarthriaChecker_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/DysarthriaChecker">
+    <img src="https://img.shields.io/badge/Source_Code-Deep_Learning_Model-blue?style=flat&logo=Python&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -350,8 +422,14 @@ DeepMind<br>
 Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine)<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code](https://github.com/h-ch22/DeepMind_iOS)<br>
-[DeepLearning Source Code](https://github.com/h-ch22/DeepMind_ML)<br><br>
+<div>
+<a href="https://github.com/h-ch22/DeepMind_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/DeepMind_ML">
+    <img src="https://img.shields.io/badge/Source_Code-Deep_Learning_Model-blue?style=flat&logo=Python&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -377,8 +455,14 @@ Jeonbuk National University Smart Biophotonics Lab.<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Web Source Code](https://github.com/h-ch22/SBL_Web)<br>
-[Visit Website](https://sbl-web.web.app)<br><br>
+<div>
+<a href="https://github.com/h-ch22/SBL_Web">
+    <img src="https://img.shields.io/badge/Source_Code-Web-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+</a>
+<a href="https://sbl-web.web.app">
+    <img src="https://img.shields.io/badge/Visit-Website-blue?style=flat&logo=Google%20Chrome&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -401,7 +485,11 @@ AgingHelper<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Android Source Code](https://github.com/h-ch22/AgingHelper_Android)<br><br>
+<div>
+<a href="https://github.com/h-ch22/AgingHelper_Android">
+    <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -429,6 +517,14 @@ Changjin-Ha<br>
 ## 📱 Products
 [iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DementiaChecker_iOS)
 [DeepLearning Source Code (Private)](https://github.com/h-ch22/DementiaChecker_ML)<br>
+<div>
+<a href="https://github.com/h-ch22/DementiaChecker_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/DementiaChecker_ML">
+    <img src="https://img.shields.io/badge/Source_Code-Deep_Learning_Model-blue?style=flat&logo=Python&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -454,8 +550,14 @@ A.MUSE<br>
 Changjin-Ha, Hwaram-Park, Jisoo-Park<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code](https://github.com/h-ch22/A.MUSE_iOS)
-[Unreal Source Code](https://github.com/h-ch22/A.MUSE_Unreal)<br>
+<div>
+<a href="https://github.com/h-ch22/A.MUSE_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/A.MUSE_Unreal">
+    <img src="https://img.shields.io/badge/Source_Code-Unreal_Engine-black?style=flat&logo=Unreal%20Engine&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -481,8 +583,14 @@ Endoscopy Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/EndoscopyChecker_iOS)
-[DeepLearning Source Code (Private)](https://github.com/h-ch22/EndoscopyChecker_DL)<br>
+<div>
+<a href="https://github.com/h-ch22/EndoscopyChecker_iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+<a href="https://github.com/h-ch22/EndoscopyChecker_DL">
+    <img src="https://img.shields.io/badge/Source_Code-Deep_Learning_Model-blue?style=flat&logo=Python&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -508,8 +616,11 @@ Wake Me!<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code](https://github.com/h-ch22/Wake-Me-iOS)
-[DeepLearning Source Code (Expected)](https://github.com/h-ch22/Wake-Me-DL)<br>
+<div>
+<a href="https://github.com/h-ch22/Wake-Me-iOS">
+    <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -521,6 +632,7 @@ Romanowsky Stain Slide Analyzer for Windows<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/WinUI3-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
@@ -535,7 +647,11 @@ Romanowsky Stain Slide Analyzer for Windows<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Windows Source Code (Private)](https://github.com/h-ch22/RomanowskyStainSlideAnalyzer_Windows)<br>
+<div>
+<a href="https://github.com/h-ch22/RomanowskyStainSlideAnalyzer_Windows">
+    <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat&logo=Windows&logoColor=white"/>
+</a>
+</div>
 
 - - -
 
@@ -547,6 +663,7 @@ Swirling Checker<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/WinUI3-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"><br>
@@ -561,4 +678,8 @@ Swirling Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[Windows Source Code (Private)](https://github.com/h-ch22/SwirlingChecker_Windows)<br>
+<div>
+<a href="https://github.com/h-ch22/SwirlingChecker_Windows">
+    <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat&logo=Windows&logoColor=white"/>
+</a>
+</div>

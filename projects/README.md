@@ -84,7 +84,7 @@ MEDi<br>
 <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
 
 ## 🗓️ Period
-🗓️ <b>2020.06 ~ 2020.10.<br>
+🗓️ <b>Jun. 2020 - Oct. 2020<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -129,8 +129,8 @@ JBNU COE<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
-🗓️ <b>2020.12 ~ 2021.03.<br>
-🛠️ <b>2021.03. ~ 2021.11. (Update)<br>
+🗓️ <b>Dec. 2020 - Mar. 2021<br>
+🛠️ <b>Mar. 2021 - Nov. 2021 (Update)<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -182,8 +182,8 @@ Changjin-Ha<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
-🗓️ <b>2021.06 ~ 2021.12.<br>
-🛠️ <b>2023.04. ~ 2023.06. (Update)<br>
+🗓️ <b>Jun. 2021 - Dec. 2021<br>
+🛠️ <b>Apr. 2023 - Jun. 2023 (Update)<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -213,7 +213,7 @@ OFF:IT<br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2021.06 ~ 2021.10.<br>
+🗓️ <b>Jun. 2021 - Oct. 2021<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -234,7 +234,7 @@ Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, Soju
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2021.11 ~ 2021.11.<br>
+🗓️ <b>Nov. 2021 - Nov. 2021<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -260,8 +260,8 @@ JBNU Student Council<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
-🗓️ <b>2021.12 ~ 2022.03.<br>
-🛠️ <b>2022.03. ~ 2022.11. (Update)<br>
+🗓️ <b>Dec. 2021 - Mar. 2022<br>
+🛠️ <b>Mar. 2022 - Nov. 2022 (Update)<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -308,7 +308,7 @@ GT: Go Together (OutSourcing)<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
-🗓️ <b>2022.12 ~ 2023.03.<br>
+🗓️ <b>Dec. 2022 - Mar. 2023<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -343,7 +343,7 @@ Scalp Checker<br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2023.01. ~ 2023.03.<br>
+🗓️ <b>Jan. 2023 - Mar. 2023<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -382,7 +382,7 @@ Dysarthria Checker<br>
 <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
 
 ## 🗓️ Period
-🗓️ <b>2023.06. ~ 2023.08.<br>
+🗓️ <b>Jun. 2023 - Aug. 2023<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -421,7 +421,7 @@ DeepMind<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2023.06. ~ 2023.10.<br>
+🗓️ <b>Jun. 2023 - Oct. 2023<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -453,7 +453,7 @@ Jeonbuk National University Smart Biophotonics Lab.<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
-🗓️ <b>2023.11. ~ 2023.11.<br>
+🗓️ <b>Nov. 2023 - Nov. 2023<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -484,7 +484,7 @@ AgingHelper<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2023.12. ~ 2023.12.<br>
+🗓️ <b>Dec. 2023 - Dec. 2023<br>
 
 ## ☑️ Results
 ✖️ <b>Deprecated (Reason: Low Accuracy, too large model, Model does not compatible with Torchscript)<br>
@@ -514,7 +514,7 @@ Dementia Checker<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2024.01. ~ 2024.02.<br>
+🗓️ <b>Jan. 2024 - Feb. 2024<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -549,7 +549,7 @@ A.MUSE<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br>
 
 ## 🗓️ Period
-🗓️ <b>2024.07. ~ 2024.09.<br>
+🗓️ <b>Jul. 2024 - Sep. 2024<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -582,7 +582,7 @@ Endoscopy Checker<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2024.10. ~ Current<br>
+🗓️ <b>Oct. 2024 - Current<br>
 
 ## ☑️ Results
 ➡️ <b>In Progress<br>
@@ -615,7 +615,7 @@ Wake Me!<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2024.11. ~ Current<br>
+🗓️ <b>Nov. 2024 - Current<br>
 
 ## ☑️ Results
 ➡️ <b>In Progress<br>
@@ -646,7 +646,7 @@ Romanowsky Stain Slide Analyzer for Windows<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2024.11. ~ 2025.01.<br>
+🗓️ <b>Nov. 2024 - Jan. 2025<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>
@@ -677,7 +677,7 @@ Swirling Checker<br>
 <img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"><br>
 
 ## 🗓️ Period
-🗓️ <b>2025.01. ~ 2025.01.<br>
+🗓️ <b>Jan. 2025 - Jan. 2025<br>
 
 ## ☑️ Results
 ☑️ <b>Done for all features<br>

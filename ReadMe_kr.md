@@ -97,9 +97,9 @@
 |의공학회지, 대한의용생체공학회|[한국인 구음장애 환자의 발화 데이터 기반 질병 예측을 위한 모바일 애플리케이션 개발 (하창진, 고태식)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|2024. 02.|
 |전북대학교병원 의생명연구원|학사 연구원|2024. 03. - 현재|
 |한국정보과학회|간이정신상태검사, 라이프로그, 수면 데이터를 활용한 딥러닝 기반 치매 진단 모바일 애플리케이션 개발(하창진, 고태식), Poster Presentation|KCC 2024|
-|Applied Sciences|[Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)](https://www.mdpi.com/2076-3417/14/16/7124)|Aug. 2024|
+|Applied Sciences|[Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)](https://www.mdpi.com/2076-3417/14/16/7124)|2024. 08.|
 |대한의용생체공학회|딥러닝 기반 치매 조기 진단 애플리케이션 개발 (하창진, 고태식), Poster Presentation|2024. 추계|
-|2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment, Poster Presentation|Nov. 2024|
+|2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment, Poster Presentation|2024. 11.|
 
 🏆 수상
 =
@@ -111,8 +111,8 @@
 |🥉장려상|2021. K-해커톤, 소프트웨어교육혁신센터|1인 가구를 위한 통합 IoT 플랫폼 개발 (하창진, [장유지](https://github.com/yujeecatherine), 이하영, 문소정)|소프트웨어교육혁신센터장상|
 |🥈최우수상|2021. 전북대학교 공과대학|공과대학 홍보 영상 컨텐츠 제작 (하창진, [장유지](https://github.com/yujeecatherine), 이하영)|전북대학교 공과대학장상|
 |🥇1위|2021. 전북대학교|전북대학교 홍보 숏폼 영상 컨텐츠 제작 (하창진, 이하영)|전북대학교 총장상|
-|🥈은상|2023. 춘계, 한국정보기술학회, 대학생 논문 경진대회|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발([남윤수](https://github.com/namyounsu)* , [김세창](https://github.com/winersch)* , [김재현](https://github.com/kiku99)* , [김현수](https://github.com/kimhyun5u)* , 하창진* , 최선오** , 유철중**)|은상|
-|🥇대상|2023. 추계, 한국재활복지공학회, 대학생 논문 경진대회|한국어 구음장애 진단 및 재활을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|대상|
+|🥈은상|2023. 춘계, 한국정보기술학회, 대학생 논문 경진대회|소스코드 평가 및 유사도 검사 시스템 : Code Odor Detect Assistant (CODA) 개발([남윤수](https://github.com/namyounsu)* , [김세창](https://github.com/winersch)* , [김재현](https://github.com/kiku99)* , [김현수](https://github.com/kimhyun5u)* , 하창진* , 최선오** , 유철중**)|한국정보기술학회장상|
+|🥇대상|2023. 추계, 한국재활복지공학회, 대학생 논문 경진대회|한국어 구음장애 진단 및 재활을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|한국재활복지공학회장상|
 |🏅특별상|2023. K-해커톤, 소프트웨어교육혁신센터|아동 심리 상태 확인 및 공유, 상담을 위한 딥러닝 기반 HTP 검사 서비스(하창진, [장유지](https://github.com/yujeecatherine))|소프트웨어교육혁신센터 이사장상|
 |🥈우수상|2023. 전북창조경제혁신센터|전라북도청년정책 홍보 및 활성화를 위한 영상 컨텐츠 제작 (하창진, 박지수, 박화람)|전북창조경제혁신센터장상|
 |🥈우수발표논문상|2024 한국컴퓨터종합학술대회 (KCC 2024)|간이정신상태검사, 라이프로그, 수면 데이터를 활용한 딥러닝 기반 치매 진단 모바일 애플리케이션 개발(하창진, 고태식)|한국정보과학회장상|

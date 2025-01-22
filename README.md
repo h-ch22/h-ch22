@@ -87,11 +87,11 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|
 |LG AI Research|2nd Period, LG Aimers|Dec. 2022 - Feb. 2023|
 |Jeonbuk National University|Undergraduate Research Student, Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
-|KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|2023. Spring|
-|KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|2023. Summer|
+|KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|Spring, 2023|
+|KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Summer, 2023|
 |HRDK|Engineer Information Processing Certificate|2023|
-|RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|2023. Fall|
-|KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go), Poster Presentation|2023. Fall|
+|RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|Fall, 2023|
+|KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go), Poster Presentation|Fall, 2023|
 |Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
 |Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
@@ -99,7 +99,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Current|
 |KIISE|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Poster Presentation|Korea Computer Congress 2024 (KCC 2024)|
 |Applied Sciences|[Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)](https://www.mdpi.com/2076-3417/14/16/7124)|Aug. 2024|
-|KOSOMBE|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Tesik Go), Poster Presentation|2024. Fall|
+|KOSOMBE|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Tesik Go), Poster Presentation|Fall, 2024|
 |2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment (Changjin Ha, Taesik Go), Poster Presentation|Nov. 2024|
 
 🏆 Awards
@@ -108,11 +108,11 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |-----|-----|-----|-----|
 |🥇1st|2018.Hackathon@Dept. Software Engineering, Jeonbuk National University|Development of Blue Light Screen Filter to Prevent Smartphone Addiction|Award of President, JBNU, dept. of SWE|
 |🥇1st|2019.Hackathon@Div. Computer Engineering, Jeonbuk National University|Development of notification reception system for smartphones on smart TVs|Award of President, JBNU|
-|🥉Encouragement Award|2020.K-Hackathon, SWKorea|Development of Training AR Application for Safe Use of Non-drugs for Children (Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), Sojung Moon, †Hayeon-Oh(23.06.30.), et al.)|Award of Chairman, SWKorea|
+|🥉Encouragement Award|2020.K-Hackathon, SWKorea|Development of Training AR Application for Safe Use of Non-drugs for Children (Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), Sojung Moon, †Hayeon-Oh(06.30.2023), et al.)|Award of Chairman, SWKorea|
 |🥉Encouragement Award|2021.K-Hackathon, SWKorea|Development of Universal Home IoT Device&Service (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, Sojung Moon)|Award of President, SWKorea|
 |🥈Grand Award|2021. College of Engineering, Jeonbuk National University|Production of promotional video content for Jeonbuk National University College of Engineering (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee)|Award of President, College of Engineering, Jeonbuk National University|
 |🥇 1st|2021. Jeonbuk National University|Production of short-form promotional video content for Joenbuk National University (Changjin-Ha, Hayeong-Lee)|Award of President, Jeonbuk National University|
-|🥈Silver Award|2023. Summer, KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Silver Award|
+|🥈Silver Award|2023. Summer, KIIT, Paper Contest for College Students|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Award of President, KIIT|
 |🥇 1st|2023. Fall, RESKO, Paper Contest for College Students|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|Award of President, RESKO|
 |🏅 Special Award|2023.K-Hackathon, SWKorea|Development of deep learning-based mobile applications for art psychological diagnosis and treatment of child abuse victims (Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine))|Award of Chairman, SWKorea|
 |🥈Excellent Award|2023. Jeonbuk Center for Creative Economy & Innovation|Video content production to promote and revitalize youth policies (Changjin-Ha, Jisoo-Park, Hwaram-Park)|Award of President, Jeonbuk Center for Creative Economy & Innovation|

@@ -61,6 +61,7 @@ ___
 - [<img width="30px;" src="res/ic_SBL.png"> Jeonbuk National University SmartBiophotonics Lab.](#jeonbuk-national-university-smart-biophotonics-lab)
 - [<img width="30px;" src="res/ic_AgingHelper.png"> AgingHelper](#aginghelper)
 - [<img width="30px;" src="res/ic_dementiaChecker.png"> Dementia Checker](#dementia-checker)
+- [<img width="30px;" src="res/ic_d_day_watch.png"> D-DAY WATCH](#d-day-watch)
 - [<img width="30px;" src="res/ic_AMUSE.png"> A.MUSE](#amuse)
 - [<img width="30px;" src="res/ic_endoscopyChecker.png"> Endoscopy Checker](#endoscopy-checker)
 - [<img width="30px;" src="res/ic_wakeMe.png"> Wake Me!](#wake-me)
@@ -79,6 +80,7 @@ MEDi<br>
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Java-f89820?style=flat-square">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
 <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
@@ -125,7 +127,9 @@ JBNU COE<br>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
@@ -178,7 +182,9 @@ Changjin-Ha<br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
@@ -210,7 +216,8 @@ OFF:IT<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
 🗓️ <b>Jun. 2021 - Oct. 2021<br>
@@ -231,7 +238,8 @@ Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, Soju
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
 🗓️ <b>Nov. 2021 - Nov. 2021<br>
@@ -256,7 +264,9 @@ JBNU Student Council<br>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
@@ -304,6 +314,7 @@ GT: Go Together (OutSourcing)<br>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
@@ -338,6 +349,7 @@ Scalp Checker<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"><br>
@@ -377,6 +389,7 @@ Dysarthria Checker<br>
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
@@ -416,7 +429,9 @@ DeepMind<br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
@@ -481,6 +496,7 @@ AgingHelper<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
 
 ## 🗓️ Period
@@ -510,6 +526,7 @@ Dementia Checker<br>
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
@@ -523,8 +540,6 @@ Dementia Checker<br>
 Changjin-Ha<br>
 
 ## 📱 Products
-[iOS/iPadOS Source Code (Private)](https://github.com/h-ch22/DementiaChecker_iOS)
-[DeepLearning Source Code (Private)](https://github.com/h-ch22/DementiaChecker_ML)<br>
 <div>
 <a href="https://github.com/h-ch22/DementiaChecker_iOS">
     <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
@@ -533,6 +548,41 @@ Changjin-Ha<br>
     <img src="https://img.shields.io/badge/Source_Code-Deep_Learning_Model-blue?style=flat&logo=Python&logoColor=white"/>
 </a>
 </div>
+
+- - -
+
+<img src="res/D_DAY_WATCH_mockup.png"><br>
+<img width="200px;" src="res/ic_d_day_watch.png"><br>
+D-DAY Watch<br>
+=
+> Check your own D-Day on wearOS<br>
+
+## 🛠️ Technologies
+<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/wearOS-green?style=flat-square&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
+
+## 🗓️ Period
+🗓️ <b>May. 2024 - Jun. 2024<br>
+
+## ☑️ Results
+☑️ <b>Done for all features<br>
+☑️ <b>Published on Google Play<br>
+
+## 👩‍👧‍👦 People
+Changjin-Ha<br>
+
+## 📱 Products
+<div>
+<a href="https://github.com/h-ch22/D-Day_Watch">
+    <img src="https://img.shields.io/badge/Source_Code-Android&wearOS-green?style=flat&logo=android&logoColor=white"/>
+</a>
+</div>
+
+<a href="https://play.google.com/store/apps/details?id=com.cj.d_daywatch">
+    <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
+</a>
 
 - - -
 
@@ -545,6 +595,7 @@ A.MUSE<br>
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br>
 
@@ -578,6 +629,7 @@ Endoscopy Checker<br>
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
@@ -611,6 +663,7 @@ Wake Me!<br>
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 

@@ -1,11 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=🧑‍💻Projects&fontSize=90)
 
-<img align="left" float="left" width="200px" src="res/img_profile.jpg">
+<img align="left" float="left" width="170px" src="res/img_profile.jpg">
 <h1>&nbsp;Changjin Ha</h1><br>
 <b>&nbsp;👨🏻‍💻 Profile:</b> Full-Stack Developer / Software Engineer<br>
 <b>&nbsp;👨‍🎓 Degree:</b> Feb. 2024 / BS, Software Engineering, Jeonbuk National University<br> 
-<b>&nbsp;🎯 Current:</b> Mar. 2024 - / BS Researcher, Jeonbuk National University Hospital Biomedical Research Institute<br>
 <b>&nbsp;✉️ E-Mail:</b> ckdwls9460@gmail.com<br>
+
+<b>&nbsp;🎯 Career</b><br>
+
+|Company|Position|Period|
+|-----|-----|-----|
+|Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Feb. 2025|<br>
 <h2>&nbsp;🛠 SKILLS</h2>
 
 <div align="center">

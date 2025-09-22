@@ -59,7 +59,6 @@ ___
 - [<img width="30px;" src="res/ic_OFFIT.png"> OFF:IT](#offit)
 - [<img width="30px;" src="res/ic_HoosaengOrder.png"> 후생관 오더](#후생관-오더)
 - [<img width="30px;" src="res/ic_JBNUCH.png"> JBNU Student Council](#jbnu-student-council)
-- [<img width="30px;" src="res/ic_GT.png"> GT: Go Together](#gt-go-together-outsourcing)
 - [<img width="30px;" src="res/ic_ScalpChecker.png"> Scalp Checker](#scalp-checker)
 - [<img width="30px;" src="res/ic_DysarthriaChecker.png"> Dysarthria Checker](#dysarthria-checker)
 - [<img width="30px;" src="res/ic_DeepMind.png"> DeepMind](#deepmind)
@@ -301,45 +300,6 @@ Changjin-Ha<br>
 </a>
 
 <a href="https://apps.apple.com/au/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1565724174">
-    <img style="width: 150px; height: 45px;" src="./res/img_getInOnAppStore.svg"/>
-</a>
-</div>
-
-- - -
-
-<img src="res/GT_mockup.png"><br>
-<img width="200px;" src="res/ic_GT.png"><br>
-GT: Go Together (OutSourcing)<br>
-=
-> Global Smart Farm Sculpture Investment<br>
-
-## 🛠️ Technologies
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
-
-## 🗓️ Period
-🗓️ <b>Dec. 2022 - Mar. 2023<br>
-
-## ☑️ Results
-☑️ <b>Done for all features<br>
-☑️ <b>Published on Google Play, Apple App Store<br>
-
-## 👩‍👧‍👦 People
-Changjin-Ha<br>
-
-## 📱 Products
-<div>
-<a href="https://play.google.com/store/apps/details?id=com.cj.gt&hl=ln&gl=US&pli=1">
-    <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
-</a>
-
-<a href="https://apps.apple.com/kr/app/gt-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%EC%A1%B0%EA%B0%81%ED%88%AC%EC%9E%90/id6447186903">
     <img style="width: 150px; height: 45px;" src="./res/img_getInOnAppStore.svg"/>
 </a>
 </div>

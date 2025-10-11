@@ -717,9 +717,9 @@ Changjin-Ha<br>
 
 <img src="res/Mockup_SBL_Web_v2.png"><br>
 <img src="res/ic_SBL.png"><br>
-Jeonbuk National University Smart Biophotonics Lab.<br>
+SBL Web v2<br>
 =
-> An official website for Smart Biophotonics Lab., Jeonbuk National University<br>
+> An official website for Smart Biophotonics Lab., Jeonbuk National University. Fast, stable, and beautiful, rebuilt with Vue.<br>
 
 ## 🛠️ Technologies
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">

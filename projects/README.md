@@ -737,7 +737,7 @@ Changjin-Ha<br>
 
 ## 📱 Products
 <div>
-<a href="https://github.com/h-ch22/SBL_Web">
+<a href="https://github.com/h-ch22/SBL_Web_v2">
     <img src="https://img.shields.io/badge/Source_Code-Web-4FC08D?style=flat&logo=Vue.JS&logoColor=white"/>
 </a>
 <a href="https://sbl-web.web.app">

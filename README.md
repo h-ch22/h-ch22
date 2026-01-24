@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20There!👋🏻&fontSize=90)
 
 # 📜Index
-=
+
 - [🛠 Tech Stack](#-tech-stack-)
 - [💻 Tools](#-tools-)
 - [🧑‍💻 Projects](#-projects-)
@@ -15,7 +15,7 @@
 - [📈 Statistics](#statistics-)
 
 # 🛠 Tech Stack 🛠
-=
+
 Techs that I've used at least once 😏
 
 ## 🚀 Main Tech Stack
@@ -87,7 +87,7 @@ Techs that I've used at least once 😏
 </div>
 
 # 💻 Tools 💻
-=
+
 <div>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
@@ -102,7 +102,7 @@ Techs that I've used at least once 😏
 </div>
 
 # 🧑‍💻 Projects 🧑‍💻
-=
+
 Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 
 # 🌱 Learning, Research, Work
@@ -128,7 +128,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment (Changjin Ha, Taesik Go), Poster Presentation|Nov. 2024|
 
 # 🏆 Awards
-=
+
 |Level|Agency|Subject|Award|
 |-----|-----|-----|-----|
 |🥇1st|2018.Hackathon@Dept. Software Engineering, Jeonbuk National University|Development of Blue Light Screen Filter to Prevent Smartphone Addiction|Award of President, JBNU, dept. of SWE|
@@ -145,7 +145,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |🥇Excellent Paper Award|Journal of Biomedical Engineering Research, KOSOMBE|Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)|Award of President, KOSOMBE|<br>
 
 # 📰 Media Coverage
-=
+
 [‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021](https://www.jbpresscenter.com/news/articleView.html?idxno=501197)</br>
 
 [“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021](https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
@@ -153,7 +153,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 [숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022](https://www.jbpresscenter.com/news/articleView.html?idxno=501903)</br>
 
 # ✒️ Publications
-=
+
 |Journal|Journal Name|Subject|
 |-----|-----|-----|
 |Domestic Conference|The Korean Society of Medical & Biological Engineering (Spring, 2023)|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go)|
@@ -167,11 +167,11 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 |Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2024)|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Taesik Go)|
 
 # Contact? 😊
-=
+
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 # Statistics 📈
-=
+
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwls9460">

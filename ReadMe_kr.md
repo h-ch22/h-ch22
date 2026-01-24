@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=반가워요!👋🏻&fontSize=90)
 
 # 📜미리보기
-=
+
 - [🛠 기술 스택](#-기술-스택-)
 - [💻 도구](#-도구-)
 - [🧑‍💻 프로젝트](#-프로젝트-)
@@ -14,7 +14,7 @@
 - [📈 통계](#통계-)
 
 # 🛠 기술 스택 🛠
-=
+
 최소 한번 이상의 프로젝트를 진행한 기술들입니다 😏
 
 ## 🚀 메인 기술 스택
@@ -86,7 +86,7 @@
 </div>
 
 # 💻 도구 💻
-=
+
 <div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
@@ -101,11 +101,11 @@
 </div>
 
 # 🧑‍💻 프로젝트 🧑‍💻
-=
+
 프로젝트들을 보고싶으신가요? [링크를 클릭해보세요!](./projects/README.md)<br>
 
 # 🌱 학업, 연구, 업무
-=
+
 |기관|주제|기간|
 |-----------|-----------|----------|
 |전북대학교|소프트웨어공학과 (학사)|2018. 03. - 2024. 02.|
@@ -127,7 +127,7 @@
 |2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment, Poster Presentation|2024. 11.|
 
 # 🏆 수상
-=
+
 |수상 등급|기관|주제|수상|
 |---------|----------|----------|---------|
 |🥇1위|2018. 전북대학교 소프트웨어공학과 AM:PM 해커톤|스마트폰 중독 예방을 위한 블루라이트 스크린 필터 개발|전북대학교 소프트웨어공학과장상|
@@ -144,7 +144,7 @@
 |🥇우수논문상|의공학회지, 대한의용생체공학회|한국인 구음장애 환자의 발화 데이터 기반 질병 예측을 위한 모바일 애플리케이션 개발 (하창진, 고태식)|대한의용생체공학회장상|
 
 # 📰 기사
-=
+
 [‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021](https://www.jbpresscenter.com/news/articleView.html?idxno=501197)</br>
 
 [“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021](https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
@@ -152,7 +152,7 @@
 [숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022](https://www.jbpresscenter.com/news/articleView.html?idxno=501903)</br>
 
 # ✒️ 논문
-=
+
 |저널|저널 이름|논문 제목|
 |-----|-----|-----|
 |국내 학회|대한의용생체공학회 (2023 춘계)|설명가능한 인공지능을 활용한 두피 상태 진단 소프트웨어 개발 (하창진, 고태식)|
@@ -166,11 +166,11 @@
 |국내 학회|대한의용생체공학회 (2024 추계)|딥러닝 기반 치매 조기 진단 애플리케이션 개발 (하창진, 고태식)|
 
 # 언제든 연락해주세요! 😊
-=
+
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 # 통계 📈
-=
+
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwls9460">

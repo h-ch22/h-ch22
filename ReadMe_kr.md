@@ -1,6 +1,24 @@
 [English](https://github.com/h-ch22/) </br>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=반가워요!👋🏻&fontSize=90)
 
+# 🙌🏻 반가워요!
+
+> **"Delivering Warmth through Tech, Proven by Data."** <br> 
+> 데이터로 증명하고, 기술로 따뜻함을 전하는 개발자 하창진입니다.
+
+저는 **AI 기술을 모바일 서비스에 녹여내어 사회의 빈틈을 메우는 과정**에 몰입합니다.
+
+단순한 기능 구현에 그치지 않고, **치매 조기 진단**이나 **구음장애 개선**과 같이 실제 사용자에게 도움이 되는 헬스케어 솔루션을 개발하며, 그 효용성을 **논문**과 **수상**으로 끊임없이 검증해왔습니다.
+
+* **Human-Centric:** 기술 자체가 아닌, 기술이 닿을 '사람'을 먼저 생각합니다.
+
+* **Proven Competence:** 감에 의존하지 않고, 데이터와 연구 결과로 코드를 증명합니다.
+
+* **Hybrid Engineer:** **Mobile**의 사용자 경험부터 **AI/Backend**의 로직까지, 서비스의 A to Z를 주도합니다.
+
+**"차가운 데이터로 가장 따뜻한 치유를 만드는 일"**, 제가 개발을 하는 이유입니다.
+
+
 # 📜미리보기
 
 - [🛠 기술 스택](#-기술-스택-)

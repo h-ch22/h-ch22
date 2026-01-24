@@ -2,6 +2,23 @@
 [Notion](https://www.notion.so/Changjin-Ha-950fb9482888474cb3abef91f714f24d?pvs=4) </br>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20There!👋🏻&fontSize=90)
 
+# 🙌🏻 About Me
+
+> **"Delivering Warmth through Tech, Proven by Data."**
+
+I am a developer who bridges the gap between **Complex AI Models** and **Accessible Mobile Experiences**.
+
+My passion lies in solving real-world problems through technology, specifically in the **Digital Healthcare** sector. I don't just write code; I verify its validity through academic research and quantitative data.
+
+* **Evidence-Based:** My solutions for **Dementia** and **Dysarthria** diagnosis have been validated through **Publications** and recognized with major **Awards**.
+
+* **Full-Cycle Capability:** Proficient in navigating the entire development lifecycle, from **On-Device AI** deployment to **Native Mobile App (iOS/Android)** and **Backend** architecture.
+
+* **Value-Driven:** I strive to build technology that not only functions efficiently but also cares for those in need.
+
+**"Engineering for Humanity"** is the core identity that drives my code.
+
+
 # 📜Index
 
 - [🛠 Tech Stack](#-tech-stack-)

@@ -12,6 +12,12 @@
 |-----|-----|-----|
 |Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Feb. 2025|<br>
 
+> **Redefining Quality through Cutting-Edge Technology.**
+
+I believe that adopting the latest technology is not just about following trends—it's about maximizing performance and user experience.
+
+By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Device AI, I deliver results that stand apart in stability and polish.
+
 <h2>&nbsp;🛠 SKILLS</h2>
 
 ### 📱 Mobile Application

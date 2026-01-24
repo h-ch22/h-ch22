@@ -102,7 +102,60 @@
 
 # 🧑‍💻 프로젝트 🧑‍💻
 
-프로젝트들을 보고싶으신가요? [링크를 클릭해보세요!](./projects/README.md)<br>
+## ✨ Featured Projects
+
+<table>
+    <tr>
+        <td align="center" valign="top" width="33%">
+            <img src="projects/res/DementiaChecker_mockup.png" width="300" /><br>
+            <b>🧠 치매의 단계별 진단 앱</b><br>
+            <p>🥈 우수발표논문상 (한국정보과학회장상)</p><br>
+            <a href="https://github.com/h-ch22/DementiaChecker_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+        <td align="center" valign="top" width="33%">
+            <img src="projects/res/DysarthriaChecker_mockup.png" width="300" /><br>
+            <b>👄 구음장애 진단 및 재활앱</b><br>
+            <p>🥇 대상 (한국재활복지공학회장상, 한국재활복지공학회 대학생 논문 경진대회)</p><br>
+            <p>🥇 우수논문상 (대한의용생체공학회장상, 2024 의공학회지)</p><br>
+            <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725">
+            📄 논문 (의공학회지에 게시됨)</a><br>
+            <a href="https://github.com/h-ch22/DysarthriaChecker_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+        <td align="center" valign="top" width="33%">
+            <img src="projects/res/ScalpChecker_mockup.png" width="300" /><br>
+            <b>💇🏻‍♀️ 두피 상태 진단 소프트웨어</b><br>
+            <a href="https://www.mdpi.com/2076-3417/14/5/1734">
+            📄 논문 (Applied Sciences에 게시됨)</a><br>
+            <a href="https://github.com/h-ch22/ScalpChecker_Windows">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/JBNUCH_mockup.png" width="300"/><br>
+            <b>📱 전북대학교 총학생회 공식앱</b><br>
+            <a href="https://github.com/h-ch22/JBNUCH_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/SOZIP_mockup.png" width="300"/><br>
+            <b>🍔 위치 기반 배달팁 1/n 정산 앱</b><br>
+            <a href="https://github.com/h-ch22/SOZIP_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+[모든 프로젝트 보기...](./projects/README.md)<br>
 
 # 🌱 학업, 연구, 업무
 

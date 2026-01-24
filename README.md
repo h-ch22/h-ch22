@@ -103,7 +103,60 @@ Techs that I've used at least once 😏
 
 # 🧑‍💻 Projects 🧑‍💻
 
-Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
+## ✨ Featured Projects
+
+<table>
+    <tr>
+        <td align="center" valign="top" width="33%">
+            <img src="projects/res/DementiaChecker_mockup.png" width="300" /><br>
+            <b>🧠 Dementia Stage Diagnosis App</b><br>
+            <p>🥈 Excellent Award (Award of President, KIISE)</p><br>
+            <a href="https://github.com/h-ch22/DementiaChecker_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+        <td align="center" valign="top" width="33%">
+            <img src="projects/res/DysarthriaChecker_mockup.png" width="300" /><br>
+            <b>👄 Dysarthria Diagnosis App</b><br>
+            <p>🥇 1st (Award of President, RESKO)</p><br>
+            <p>🥇 Excellent Paper Award (Award of President, KOSOMBE)</p><br>
+            <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725">
+            📄 Paper (Published on Journal of biomedical Engineering Research)</a><br>
+            <a href="https://github.com/h-ch22/DysarthriaChecker_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+        <td align="center" valign="top" width="33%">
+            <img src="projects/res/ScalpChecker_mockup.png" width="300" /><br>
+            <b>💇🏻‍♀️ Scalp Inspection SW</b><br>
+            <a href="https://www.mdpi.com/2076-3417/14/5/1734">
+            📄 Paper (Published on Applied Sciences)</a><br>
+            <a href="https://github.com/h-ch22/ScalpChecker_Windows">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/JBNUCH_mockup.png" width="300"/><br>
+            <b>📱 JBNU Student Council App</b><br>
+            <a href="https://github.com/h-ch22/JBNUCH_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/SOZIP_mockup.png" width="300"/><br>
+            <b>🍔 Location-based Delivery Fee Splitting Platform</b><br>
+            <a href="https://github.com/h-ch22/SOZIP_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+[More Projects...](./projects/README.md)<br>
 
 # 🌱 Learning, Research, Work
 

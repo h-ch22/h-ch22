@@ -106,7 +106,7 @@ Techs that I've used at least once 😏
 Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 
 # 🌱 Learning, Research, Work
-=
+
 |Agency|Subject|Period|
 |------|------|-----|
 |Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|

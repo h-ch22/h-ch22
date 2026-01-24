@@ -5,9 +5,7 @@
 # 📜Index
 
 - [🛠 Techs Stack](#-techs-stack-)
-- [🎨 UI Techs Stack](#-ui-techs-stack-)
 - [💻 Tools](#-tools-)
-- [🖌️ UI Design Tools](#%EF%B8%8F-ui-design-tools-%EF%B8%8F)
 - [🧑‍💻 Projects](#-projects-)
 - [🌱 Learning, Research](#-learning-research)
 - [🏆 Awards](#-awards)
@@ -20,9 +18,9 @@
 
 Techs that I've used at least once 😏
 
-### 🚀 Main Tech Stack
+## 🚀 Main Tech Stack
 
-#### 📱 Mobile Application
+### 📱 Mobile Application
 
 <div>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white">
@@ -39,7 +37,7 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 </div>
 
-#### 💻 Desktop Application
+### 💻 Desktop Application
 
 <div>
 <img src="https://img.shields.io/badge/Windows-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
@@ -49,7 +47,7 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/WinForm-%23239120.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
 </div>
 
-#### 🍃 Web & Backend
+### 🍃 Web & Backend
 
 <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -68,7 +66,7 @@ Techs that I've used at least once 😏
     </div>
 </div>
 
-#### 🤖 AI & CV & Game
+### 🤖 AI & CV & Game
 
 <div>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -81,7 +79,7 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 </div>
 
-#### 🧱 CS Foundation & Algorithms
+### 🧱 CS Foundation & Algorithms
 
 <div>
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
@@ -172,8 +170,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-Statistics 📈
-=
+# Statistics 📈
 
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt">

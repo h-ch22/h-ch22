@@ -4,9 +4,7 @@
 # 📜미리보기
 
 - [🛠 기술 스택](#-기술-스택-)
-- [🎨 UI 기술 스택](#-ui-기술-스택-)
 - [💻 도구](#-도구-)
-- [🖌️ UI 디자인 도구](#%EF%B8%8F-ui-디자인-도구-%EF%B8%8F)
 - [🧑‍💻 프로젝트](#-프로젝트-)
 - [🌱 학업, 연구](#-학업-연구)
 - [🏆 수상](#-수상)
@@ -19,9 +17,9 @@
 
 최소 한번 이상의 프로젝트를 진행한 기술들입니다 😏
 
-### 🚀 메인 기술 스택
+## 🚀 메인 기술 스택
 
-#### 📱 Mobile Application
+### 📱 Mobile Application
 
 <div>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white">
@@ -38,7 +36,7 @@
 <img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 </div>
 
-#### 💻 Desktop Application
+### 💻 Desktop Application
 
 <div>
 <img src="https://img.shields.io/badge/Windows-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
@@ -48,7 +46,7 @@
 <img src="https://img.shields.io/badge/WinForm-%23239120.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
 </div>
 
-#### 🍃 Web & Backend
+### 🍃 Web & Backend
 
 <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -67,7 +65,7 @@
     </div>
 </div>
 
-#### 🤖 AI & CV & Game
+### 🤖 AI & CV & Game
 
 <div>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -80,7 +78,7 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 </div>
 
-#### 🧱 CS Foundation & Algorithms
+### 🧱 CS Foundation & Algorithms
 
 <div>
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
@@ -100,15 +98,6 @@
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
-</div>
-
-# 🖌️ UI 디자인 도구 🖌️
-
-<div align="center">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe%20illustrator-FF9A00?style=flat-square&logo=Adobe%20illustrator&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
 
 # 🧑‍💻 프로젝트 🧑‍💻
@@ -180,8 +169,7 @@
 
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-통계 📈
-=
+# 통계 📈
 
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt">

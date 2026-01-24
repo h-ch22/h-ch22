@@ -11,50 +11,81 @@
 |Company|Position|Period|
 |-----|-----|-----|
 |Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Feb. 2025|<br>
+
 <h2>&nbsp;🛠 SKILLS</h2>
 
-<div align="center">
+### 📱 Mobile Application
+
 <div>
-    <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c%23&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Java-db8036?style=flat-square&logo=Java&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Swift-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SwiftUI-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/iOS%20UIKit-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-db8036?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+</div>
+
+### 💻 Desktop Application
+
+<div>
+<img src="https://img.shields.io/badge/Windows-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c%23&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/WinUI3-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/WPF-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/WinForm-%23239120.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
+</div>
+
+### 🍃 Web & Backend
+
+<div>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=TailWind%20CSS&logoColor=white">
+    <img src="https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcnui&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"></a>
+    <div>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Java-db8036?style=flat-square&logo=Java&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/></a>
+    </div>
 </div>
+
+### 🤖 AI & CV & Game
 
 <div>
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine"/></a>
+<img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"></a>
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c%23&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 </div>
+
+### 🧱 CS Foundation & Algorithms
+
 <div>
-    <img src="https://img.shields.io/badge/iOS%20UIKit-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/SwiftUI-df5d43?style=flat-square&logo=Swift&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Android&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/WinForm-%23239120.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/WPF-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/WinUI3-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
-</div>
+<img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 </div>
 
-
-___
+---
 
 <div clear="both">
 
-📜Index
-=
+# 📜Index
+
 - [<img width="30px;" src="res/ic_MEDi.png"> MEDi](#medi)
 - [<img width="30px;" src="res/ic_JBNUCOE.png"> JBNU COE](#jbnu-coe)
 - [<img width="30px;" src="res/ic_SOZIP.png"> 소집 : SOZIP](#소집--sozip)
@@ -75,14 +106,15 @@ ___
 - [<img width="30px;" src="res/ic_swirlingChecker.png"> Swirling Checker](#swirling-checker)
 - [<img width="30px;" src="res/ic_SBL.png"> SBL Web v2](#sbl-web-v2)
 
-
 <img src="res/MEDi_mockup.png"><br>
 <img width="200px;" src="res/ic_MEDi.png"><br>
 MEDi<br>
 =
+
 > Educational applications for correct use of non-drugs for children<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Java-f89820?style=flat-square">
@@ -93,17 +125,21 @@ MEDi<br>
 <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jun. 2020 - Oct. 2020<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 🥉 <b>Encouragement Award (Award of Chairman, SWKorea), 2020.K-Hackathon, SWKorea<br>
 ☑️ <b>Published on Google Play<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://github.com/1hyunjin), Sojung Moon, †Hayeon-Oh(23.06.30.), et al.<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/MEDi_Android">
     <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
@@ -120,15 +156,17 @@ Changjin-Ha, [Yejin-Seo](https://github.com/yejin25), [Hyunjin-Yoo](https://gith
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/JBNUCOE_mockup.png"><br>
 <img width="200px;" src="res/ic_JBNUCOE.png"><br>
 JBNU COE<br>
 =
+
 > An official mobile application of College of Engineering, Jeonbuk National University Student Council. get notice and welfare for fastest<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
@@ -140,22 +178,25 @@ JBNU COE<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Dec. 2020 - Mar. 2021<br>
 🛠️ <b>Mar. 2021 - Nov. 2021 (Update)<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 ☑️ <b>The first official student council application in Korea<br>
 ☑️ <b>Published on Google Play, Apple AppStore<br>
 📰 [‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021](https://www.jbpresscenter.com/news/articleView.html?idxno=501197)</br>
 
-📰 [“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021](
-https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
+📰 [“오로지 학생들의 편의를 위해 앱 만들었어요” 전북대 공과대학 앱 제작자, Magazine Hankyung, 2021](https://magazine.hankyung.com/job-joy/amp/202106086136d)</br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/JBNUCOE_Android">
     <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
@@ -178,14 +219,17 @@ Changjin-Ha<br>
 </a>
 </div>
 
-- - -
+---
+
 <img src="res/SOZIP_mockup.png"><br>
 <img width="200px;" src="res/ic_SOZIP.png"><br>
 소집 : SOZIP<br>
 =
+
 > An application for Delivery Cost Dutch Pay<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
@@ -195,16 +239,20 @@ Changjin-Ha<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jun. 2021 - Dec. 2021<br>
 🛠️ <b>Apr. 2023 - Jun. 2023 (Update)<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha, Sojung Moon<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/SOZIP_Android">
     <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
@@ -214,58 +262,72 @@ Changjin-Ha, Sojung Moon<br>
 </a>
 </div>
 
-- - -
+---
+
 <img src="res/OFFIT_mockup.png"><br>
 <img width="200px;" src="res/ic_OFFIT.png"><br>
 OFF:IT<br>
 =
+
 > An Application for Universal Home IoT Device&Service<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jun. 2021 - Oct. 2021<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 🥉 <b>Encouragement Award (Award of President, SWKorea), 2021.K-Hackathon, SWKorea<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Hayeong-Lee, Sojung Moon<br><br>
 
-- - -
+---
+
 <img src="res/HoosaengOrder_mockup.png"><br>
 <img width="200px" src="res/ic_HoosaengOrder.png"><br>
 후생관 오더<br>
 =
+
 > An application for non-face-to-face ordering and issuance of meal vouchers at Jeonbuk National University's student cafeteria<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Nov. 2021 - Nov. 2021<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine), Seunga-Park.<br><br>
 
-- - -
+---
 
 <img src="res/JBNUCH_mockup.png"><br>
 <img width="200px;" src="res/ic_JBNUCH.png"><br>
 JBNU Student Council<br>
 =
+
 > An official mobile application of Jeonbuk National University Student Council. get notice and welfare for fastest<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
@@ -277,17 +339,21 @@ JBNU Student Council<br>
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Dec. 2021 - Mar. 2022<br>
 🛠️ <b>Mar. 2022 - Nov. 2022 (Update)<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 ☑️ <b>Published on Google Play, Apple App Store<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/JBNUCH_Android">
     <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
@@ -307,15 +373,17 @@ Changjin-Ha<br>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/ScalpChecker_mockup.png"><br>
 <img width="200px;" src="res/ic_ScalpChecker.png"><br>
 Scalp Checker<br>
 =
+
 > Check your Scalp Health with Scalp Checker<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
@@ -323,17 +391,21 @@ Scalp Checker<br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jan. 2023 - Mar. 2023<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 📑 <b>Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Spring<br>
 📑 <b>[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi), Applied Sciences, 2024](https://www.mdpi.com/2076-3417/14/5/1734)<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/ScalpChecker_Windows">
     <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat&logo=Windows&logoColor=white"/>
@@ -346,15 +418,17 @@ Changjin-Ha<br>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/DysarthriaChecker_mockup.png"><br>
 <img width="200px;" src="res/ic_DysarthriaChecker.png"><br>
 Dysarthria Checker<br>
 =
+
 > A diagnose app for detect dysarthria with ML and Korean vocalization for Korean<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
@@ -363,19 +437,23 @@ Dysarthria Checker<br>
 <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jun. 2023 - Aug. 2023<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 🥇 <b>1st (Award of President, RESKO), Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go), Paper Contest for College Students, RESKO, 2023. Fall<br>
 📑 <b>Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Fall<br>
 📑 <b>[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria, Journal of Biomedical Engineering Research, Feb. 2024](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)<br>
-🥇 <b>Excellent Paper Award (Award of President, KOSOMBE), Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go), Journal of Biomedical Engineering Research, KOSOMBE, 2024<br>	
+🥇 <b>Excellent Paper Award (Award of President, KOSOMBE), Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go), Journal of Biomedical Engineering Research, KOSOMBE, 2024<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/DysarthriaChecker_iOS">
     <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
@@ -385,15 +463,17 @@ Changjin-Ha<br>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/DeepMind_mockup.PNG"><br>
 <img width="200px;" src="res/ic_DeepMind.png"><br>
 DeepMind<br>
 =
+
 > Check your psychological status with ML.<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
@@ -404,15 +484,20 @@ DeepMind<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jun. 2023 - Oct. 2023<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 🏅 <b>Special Award (Award of Chairman, SWKorea), 2023. K-Hackathon, SWKorea<br>
+
 ## 👩‍👧‍👦 People
+
 Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine)<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/DeepMind_iOS">
     <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
@@ -422,30 +507,36 @@ Changjin-Ha, [Yujee-Chang](https://github.com/yujeecatherine)<br>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/SBL_mockup.png"><br>
 <img src="res/ic_SBL.png"><br>
 Jeonbuk National University Smart Biophotonics Lab.<br>
 =
+
 > An official website for Smart Biophotonics Lab., Jeonbuk National University<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Nov. 2023 - Nov. 2023<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 ☑️ <b>Published<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/SBL_Web">
     <img src="https://img.shields.io/badge/Source_Code-Web-yellow?style=flat&logo=JavaScript&logoColor=white"/>
@@ -455,43 +546,51 @@ Changjin-Ha<br>
 </a>
 </div>
 
-- - -
+---
 
 <img width="200px;" src="res/ic_AgingHelper.png"><br>
 AgingHelper<br>
 =
+
 > Use ML to preview the future of your precious person or provide improved facial recognition.<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Dec. 2023 - Dec. 2023<br>
 
 ## ☑️ Results
+
 ✖️ <b>Deprecated (Reason: Low Accuracy, too large model, Model does not compatible with Torchscript)<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/AgingHelper_Android">
     <img src="https://img.shields.io/badge/Source_Code-Android-green?style=flat&logo=Android&logoColor=white"/>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/DementiaChecker_mockup.png"><br>
 <img width="200px;" src="res/ic_dementiaChecker.png"><br>
 Dementia Checker<br>
 =
+
 > Deep learning-based dementia diagnosis application using intelligence test, sleep, and lifestyle data<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
@@ -499,15 +598,20 @@ Dementia Checker<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jan. 2024 - Feb. 2024<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 🥈 <b>Excellent Award (Award of President, KIISE), Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Korea Computer Congress 2024, KIISE</b>
+
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/DementiaChecker_iOS">
     <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
@@ -517,31 +621,37 @@ Changjin-Ha<br>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/D_DAY_WATCH_mockup.png"><br>
 <img width="200px;" src="res/ic_d_day_watch.png"><br>
 D-DAY Watch<br>
 =
+
 > Check your own D-Day on wearOS<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/wearOS-green?style=flat-square&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>May. 2024 - Jun. 2024<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 ☑️ <b>Published on Google Play<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/D-Day_Watch">
     <img src="https://img.shields.io/badge/Source_Code-Android&wearOS-green?style=flat&logo=android&logoColor=white"/>
@@ -552,15 +662,17 @@ Changjin-Ha<br>
     <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
 </a>
 
-- - -
+---
 
 <img src="res/AMUSE_mockup.png"><br>
 <img width="200px;" src="res/ic_AMUSE.png"><br>
 A.MUSE<br>
 =
+
 > A complex cultural experience solution using XR technology<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
@@ -568,15 +680,19 @@ A.MUSE<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jul. 2024 - Sep. 2024<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha, Hwaram-Park, Jisoo-Park<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/A.MUSE_iOS">
     <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
@@ -586,15 +702,17 @@ Changjin-Ha, Hwaram-Park, Jisoo-Park<br>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/EndoscopyChecker_mockup.png"><br>
 <img width="200px;" src="res/ic_endoscopyChecker.png"><br>
 Endoscopy Checker<br>
 =
+
 > Deep learning-based cancer, pressure ulcer, ulcer detection and patient-communication applications in endoscopic images or videos<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
@@ -602,15 +720,19 @@ Endoscopy Checker<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Oct. 2024 - Current<br>
 
 ## ☑️ Results
+
 ➡️ <b>In Progress<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/EndoscopyChecker_iOS">
     <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
@@ -620,15 +742,17 @@ Changjin-Ha<br>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/WakeMe_mockup.png"><br>
 <img width="200px;" src="res/ic_wakeMe.png"><br>
 Wake Me!<br>
 =
+
 > Application that provides alarm missions through image comparison based on deep learning and solves math problems.<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
@@ -636,30 +760,36 @@ Wake Me!<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Nov. 2024 - Current<br>
 
 ## ☑️ Results
+
 ➡️ <b>In Progress<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/Wake-Me-iOS">
     <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat&logo=iOS&logoColor=white"/>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/Mockup_RomanowskyStainSlideAnalyzer.png"><br>
 <img width="200px;" src="res/ic_romanowskyStainSlideAnalyzer.png"><br>
 Romanowsky Stain Slide Analyzer for Windows<br>
 =
+
 > Segmentation & Labeling Tool for Data Training and Verification Exclusive to Romanowsky Stain Slide Analyzer, Powered by SAM<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/WinUI3-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
@@ -667,30 +797,36 @@ Romanowsky Stain Slide Analyzer for Windows<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Nov. 2024 - Jan. 2025<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/RomanowskyStainSlideAnalyzer_Windows">
     <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat&logo=Windows&logoColor=white"/>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/mockup_SwirlingChecker.png"><br>
 <img width="200px;" src="res/ic_swirlingChecker.png"><br>
 Swirling Checker<br>
 =
+
 > Detect the swirling phenomenon of liquid using OpenCV.<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/WinUI3-0078D4?style=flat-square&logo=Windows&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
@@ -698,44 +834,54 @@ Swirling Checker<br>
 <img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Jan. 2025 - Jan. 2025<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/SwirlingChecker_Windows">
     <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat&logo=Windows&logoColor=white"/>
 </a>
 </div>
 
-- - -
+---
 
 <img src="res/Mockup_SBL_Web_v2.png"><br>
 <img src="res/ic_SBL.png"><br>
 SBL Web v2<br>
 =
+
 > An official website for Smart Biophotonics Lab., Jeonbuk National University. Fast, stable, and beautiful, rebuilt with Vue.<br>
 
 ## 🛠️ Technologies
+
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><br>
 
 ## 🗓️ Period
+
 🗓️ <b>Sep. 2025 - Oct. 2025<br>
 
 ## ☑️ Results
+
 ☑️ <b>Done for all features<br>
 ☑️ <b>Published<br>
 
 ## 👩‍👧‍👦 People
+
 Changjin-Ha<br>
 
 ## 📱 Products
+
 <div>
 <a href="https://github.com/h-ch22/SBL_Web_v2">
     <img src="https://img.shields.io/badge/Source_Code-Web-4FC08D?style=flat&logo=Vue.JS&logoColor=white"/>

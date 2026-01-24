@@ -4,17 +4,17 @@
 
 # 📜Index
 
-- [🛠 Techs Stack](#-techs-stack-)
+- [🛠 Tech Stack](#-tech-stack-)
 - [💻 Tools](#-tools-)
 - [🧑‍💻 Projects](#-projects-)
 - [🌱 Learning, Research](#-learning-research)
 - [🏆 Awards](#-awards)
-- [📰 Article](#-article)
+- [📰 Media Coverage](#-media-coverage)
 - [✒️ Publications](#%EF%B8%8F-publications)
 - [😊 Contact](#contact-)
 - [📈 Statistics](#statistics-)
 
-# 🛠 Techs Stack 🛠
+# 🛠 Tech Stack 🛠
 
 Techs that I've used at least once 😏
 
@@ -73,7 +73,7 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
+<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine"/></a>
 <img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"></a>
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c%23&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
@@ -144,7 +144,7 @@ Do you want to see my projects? [Go to the link!](./projects/README.md)<br>
 | 🥈Excellent Award       | Korea Computer Congress 2024                                           | Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go)                                                                                                                                                                                          | Award of President, KIISE                                               |
 | 🥇Excellent Paper Award | Journal of Biomedical Engineering Research, KOSOMBE                    | Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)                                                                                                                                                                                                    | Award of President, KOSOMBE                                             | <br> |
 
-# 📰 Article
+# 📰 Media Coverage
 
 [‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021](https://www.jbpresscenter.com/news/articleView.html?idxno=501197)</br>
 

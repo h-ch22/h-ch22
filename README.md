@@ -18,7 +18,7 @@ My passion lies in solving real-world problems through technology, specifically 
 
 **"Engineering for Humanity"** is the core identity that drives my code.
 
-[<img src="https://img.shields.io/badge/See%20this%20document%20on%20Notion-000000?style=flat-square&logo=Notion&logoColor=white">](https://www.notion.so/Changjin Ha-950fb9482888474cb3abef91f714f24d?pvs=4) </br>
+[<img src="https://img.shields.io/badge/See%20this%20document%20on%20Notion-000000?style=flat-square&logo=Notion&logoColor=white">](https://www.notion.so/Changjin%20Ha-950fb9482888474cb3abef91f714f24d?pvs=4) </br>
 
 # 📋 Index
 

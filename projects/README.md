@@ -297,7 +297,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
             <img src="res/OFFIT_mockup.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
-        <img width="100px;" src="res/ic_offit.png"/><br>
+        <img width="100px;" src="res/ic_OFFIT.png"/><br>
         <h2>🔌 OFF:IT</h2>
         <br>
         <b>💡 Description</b><br>

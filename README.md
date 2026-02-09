@@ -1,5 +1,3 @@
-[한국어](./ReadMe_kr.md)
-[Notion](https://www.notion.so/Changjin-Ha-950fb9482888474cb3abef91f714f24d?pvs=4) </br>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20There!👋🏻&fontSize=90)
 
 # 🙌🏻 About Me
@@ -18,20 +16,22 @@ My passion lies in solving real-world problems through technology, specifically 
 
 **"Engineering for Humanity"** is the core identity that drives my code.
 
+[<img src="https://img.shields.io/badge/See%20this%20document%20on%20Notion-000000?style=flat-square&logo=Notion&logoColor=white">](https://www.notion.so/Changjin-Ha-950fb9482888474cb3abef91f714f24d?pvs=4) </br>
 
-# 📜Index
+# 📋 Index
 
-- [🛠 Tech Stack](#-tech-stack-)
-- [💻 Tools](#-tools-)
-- [🧑‍💻 Projects](#-projects-)
-- [🌱 Learning, Research](#-learning-research)
-- [🏆 Awards](#-awards)
-- [📰 Media Coverage](#-media-coverage)
-- [✒️ Publications](#%EF%B8%8F-publications)
-- [😊 Contact](#contact-)
-- [📈 Statistics](#statistics-)
+- [🛠 Tech Stack](#techStack)
+- [🧑‍💻 Projects](#projects)
+- [🎓 Education & Certificates](#education)
+- [🌱 Experience](#experience)
+- [🏆 Awards](#awards)
+- [📰 Media Coverage](#media)
+- [✒️ Publications](#publications)
+- [😊 Contact](#contact)
+- [📈 Statistics](#statistics)
 
-# 🛠 Tech Stack 🛠
+<a id="techStack"></a>
+# 🛠 Tech Stack
 
 Techs that I've used at least once 😏
 
@@ -103,7 +103,7 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 </div>
 
-# 💻 Tools 💻
+### 💻 Tools & Environment
 
 <div>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
@@ -118,85 +118,178 @@ Techs that I've used at least once 😏
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
 </div>
 
-# 🧑‍💻 Projects 🧑‍💻
+<a id="projects"></a>
+# 🧑‍💻 Projects
 
 ## ✨ Featured Projects
 
-<table>
+<table width="100%">
     <tr>
-        <td align="center" valign="top" width="33%">
-            <img src="projects/res/DementiaChecker_mockup.png" width="300" /><br>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/DementiaChecker_mockup.png" height="150" /><br>
+            <div>
+                <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+                <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+                <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+            </div><br>
             <b>🧠 Dementia Stage Diagnosis App</b><br>
+            <p><b>🙋🏻 Role: Full Stack</b></p><br>
             <p>🥈 Excellent Award (Award of President, KIISE)</p><br>
             <a href="https://github.com/h-ch22/DementiaChecker_iOS">
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
             </a>
         </td>
-        <td align="center" valign="top" width="33%">
-            <img src="projects/res/DysarthriaChecker_mockup.png" width="300" /><br>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/DysarthriaChecker_mockup.png" height="150" /><br>
+            <div>
+                <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+                <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+                <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+                <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square">
+            </div><br>
             <b>👄 Dysarthria Diagnosis App</b><br>
+            <p><b>🙋🏻 Role: Full Stack</b></p><br>
             <p>🥇 1st (Award of President, RESKO)</p><br>
             <p>🥇 Excellent Paper Award (Award of President, KOSOMBE)</p><br>
-            <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725">
+            <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725"><br>
             📄 Paper (Published on Journal of biomedical Engineering Research)</a><br>
             <a href="https://github.com/h-ch22/DysarthriaChecker_iOS">
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
             </a>
         </td>
-        <td align="center" valign="top" width="33%">
-            <img src="projects/res/ScalpChecker_mockup.png" width="300" /><br>
+    </tr>
+    <tr>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/ScalpChecker_mockup.png" height="150" /><br>
+            <div>
+                <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+                <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=Windows&logoColor=white">
+                <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+                <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
+            </div><br>
             <b>💇🏻‍♀️ Scalp Inspection SW</b><br>
+            <p><b>🙋🏻 Role: Windows App Lead</b></p><br>
             <a href="https://www.mdpi.com/2076-3417/14/5/1734">
             📄 Paper (Published on Applied Sciences)</a><br>
             <a href="https://github.com/h-ch22/ScalpChecker_Windows">
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
             </a>
         </td>
-    </tr>
-</table>
-<table>
-    <tr>
         <td align="center" valign="top" width="50%">
-            <img src="projects/res/JBNUCH_mockup.png" width="300"/><br>
+            <img src="projects/res/JBNUCH_mockup.png" height="150"/><br>
+            <div>
+                <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+                <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+                <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+                <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+                <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+                <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=Windows&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/>
+            </div><br>
             <b>📱 JBNU Student Council App</b><br>
+            <p><b>🙋🏻 Role: Full Stack</b></p><br>
             <a href="https://github.com/h-ch22/JBNUCH_iOS">
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
-            </a>
+            </a><br>
+            <p><b>👥 10,000+ Users</b></p><br>
+            <div>
+                <a href="https://play.google.com/store/apps/details?id=kr.ac.jbnu.ch&hl=ko&gl=US">
+                    <img height="30" src="./projects/res/img_getInOnGooglePlay.png"/>
+                </a>
+                <a href="https://apps.apple.com/au/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1565724174">
+                    <img height="30" src="./projects/res/img_getInOnAppStore.svg"/>
+                </a>
+            </div>
         </td>
+    </tr>
+    <tr>
         <td align="center" valign="top" width="50%">
             <img src="projects/res/SOZIP_mockup.png" width="300"/><br>
+            <div>
+                <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+                <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+                <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+                <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+                <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/>
+            </div><br>
             <b>🍔 Location-based Delivery Fee Splitting Platform</b><br>
+            <p><b>🙋🏻 Role: Full Stack</b></p><br>
             <a href="https://github.com/h-ch22/SOZIP_iOS">
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
-            </a>
+            </a><br>
+        </td>
+        <td align="center" valign="top" width="50%">
+            <img src="projects/res/JBNUCOE_mockup.png" width="300"/><br>
+            <div>
+                <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+                <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
+                <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
+                <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+                <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
+                <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
+                <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=Windows&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/>
+            </div><br>
+            <b>📱 JBNU COE Student Council App</b><br>
+            <p><b>🙋🏻 Role: Full Stack</b></p><br>
+            <a href="https://github.com/h-ch22/JBNUCOE_iOS">
+                <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+            </a><br>
+            <p><b>👥 5,000+ Users</b></p><br>
+            <div>
+                <a href="https://play.google.com/store/apps/details?id=kr.ac.jbnu.coe&hl=ko&gl=US">
+                    <img height="30" src="./projects/res/img_getInOnGooglePlay.png"/>
+                </a>
+                <a href="https://apps.apple.com/kr/app/%EC%A0%84%EB%B6%81%EB%8C%80-%EA%B3%B5%EB%8C%80/id1549231899">
+                    <img height="30" src="./projects/res/img_getInOnAppStore.svg"/>
+                </a>
+            </div>
         </td>
     </tr>
 </table>
 
 [More Projects...](./projects/README.md)<br>
 
-# 🌱 Learning, Research, Work
+<a id="education"></a>
+# 🎓 Education & Certificates
 
 |Agency|Subject|Period|
 |------|------|-----|
-|Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|
-|LG AI Research|2nd Period, LG Aimers|Dec. 2022 - Feb. 2023|
-|Jeonbuk National University|Undergraduate Research Student, Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
-|KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|Spring, 2023|
-|KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Summer, 2023|
-|HRDK|Engineer Information Processing Certificate|2023|
-|RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|Fall, 2023|
-|KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go), Poster Presentation|Fall, 2023|
-|Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
 |Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
-|Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
-|Journal of Biomedical Engineering Research, KOSOMBE|[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|Feb. 2024|
-|Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Feb. 2025|
-|KIISE|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Poster Presentation|Korea Computer Congress 2024 (KCC 2024)|
-|Applied Sciences|[Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)](https://www.mdpi.com/2076-3417/14/16/7124)|Aug. 2024|
-|KOSOMBE|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Tesik Go), Poster Presentation|Fall, 2024|
-|2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment (Changjin Ha, Taesik Go), Poster Presentation|Nov. 2024|
+|Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
+|HRDK|Engineer Information Processing Certificate|2023|
+|LG AI Research|2nd Period, LG Aimers|Dec. 2022 - Feb. 2023|
+|Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|
 
+<a id="experience"></a>
+# 🌱 Experience
+
+|Agency|Subject|Period|
+|------|------|-----|
+|2024 JIANT-Week|Development of a deep learning based mobile application for identifying the severity of cognitive impairment (Changjin Ha, Taesik Go), Poster Presentation|Nov. 2024|
+|KOSOMBE|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Tesik Go), Poster Presentation|Fall, 2024|
+|Applied Sciences|[Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)](https://www.mdpi.com/2076-3417/14/16/7124)|Aug. 2024|
+|KIISE|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go), Poster Presentation|Korea Computer Congress 2024 (KCC 2024)|
+|Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Feb. 2025|
+|Journal of Biomedical Engineering Research, KOSOMBE|[Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725)|Feb. 2024|
+|Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
+|KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go), Poster Presentation|Fall, 2023|
+|RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|Fall, 2023|
+|KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant([Younsu Nam](https://github.com/namyounsu)* , [Sechang Kim](https://github.com/winersch)* , [Jaehyeon Kim](https://github.com/kiku99)* , [Hyunsu Kim](https://github.com/kimhyun5u)* , Changin Ha* , Sunoh Choi** and Cheoljung Yoo**)|Summer, 2023|
+|KOSOMBE|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation|Spring, 2023|
+|Jeonbuk National University|Undergraduate Research Student, Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
+
+<a id="awards"></a>
 # 🏆 Awards
 
 |Level|Agency|Subject|Award|
@@ -214,6 +307,7 @@ Techs that I've used at least once 😏
 |🥈Excellent Award|Korea Computer Congress 2024|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go)|Award of President, KIISE|
 |🥇Excellent Paper Award|Journal of Biomedical Engineering Research, KOSOMBE|Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)|Award of President, KOSOMBE|<br>
 
+<a id="media"></a>
 # 📰 Media Coverage
 
 [‘전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021](https://www.jbpresscenter.com/news/articleView.html?idxno=501197)</br>
@@ -222,6 +316,7 @@ Techs that I've used at least once 😏
 
 [숏폼 콘텐츠 공모전, 전홍 팀 총장상 수상, JB Press Center, 2022](https://www.jbpresscenter.com/news/articleView.html?idxno=501903)</br>
 
+<a id="publications"></a>
 # ✒️ Publications
 
 |Journal|Journal Name|Subject|
@@ -236,17 +331,17 @@ Techs that I've used at least once 😏
 |International Journal|Applied Sciences|Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)|
 |Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2024)|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Taesik Go)|
 
-# Contact? 😊
+<a id="contact"></a>
+# 😊 Contact
 
 <img src="https://img.shields.io/badge/ckdwls9460@gmail.com-cd4e3d?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-# Statistics 📈
+<a id="statistics"></a>
+# 📈 Statistics
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=h-ch22&show_icons=true&theme=cobalt">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwls9460">
 
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg) </br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh-ch22%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) </br>
+![](./profile-3d-contrib/profile-night-rainbow.svg)

@@ -18,7 +18,9 @@ I believe that adopting the latest technology is not just about following trends
 
 By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Device AI, I deliver results that stand apart in stability and polish.
 
-<h2>&nbsp;🛠 SKILLS</h2>
+# 🛠 Tech Stack
+
+## 🚀 Main Tech Stack
 
 ### 📱 Mobile Application
 
@@ -84,6 +86,23 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <div>
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+</div>
+
+### 💻 Tools & Environment
+
+<div>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/WSL-FCC624.svg?style=flat-square&logo=Linux&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
 </div>
 
 ---
@@ -333,7 +352,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>✅ All features implemented</li>
         </ul><br><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Seunga-Park<br><br>
+        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Seunga Park<br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -427,7 +446,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         🎯 <b>Results</b><br>
         <ul>
         <li>✅ All features implemented</li>
-        <li>📑 Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Spring</li>
+        <li>📑 Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik Go), Poster Presentation, KOSOMBE, 2023. Spring</li>
         <li><a href="https://www.mdpi.com/2076-3417/14/5/1734">📑 Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi), Applied Sciences, 2024</a></li>
         </ul><br><br>
         👥 <b>People</b><br>
@@ -479,7 +498,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <ul>
         <li>✅ All features implemented</li>
         <li>🥇 1st (Award of President, RESKO), Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go), Paper Contest for College Students, RESKO, 2023. Fall</li>
-        <li>📑 Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik-Go), Poster Presentation, KOSOMBE, 2023. Fall</li>
+        <li>📑 Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go), Poster Presentation, KOSOMBE, 2023. Fall</li>
         <li><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003057725">📑 Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria, Journal of Biomedical Engineering Research, Feb. 2024</a></li>
         <li>🥇 Excellent Paper Award (Award of President, KOSOMBE), Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go), Journal of Biomedical Engineering Research, KOSOMBE, 2024</li>
         </ul><br><br>
@@ -614,13 +633,13 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         </ul><br><br>
         🎯 <b>Results</b><br>
         <ul>
-        <li>❌ Deprecated <i>(Reason: Low Accuracy, too large model, Model does not compatible with Torchscript)</i></li>
+        <li>❌ Deprecated <i>(Reason: Low Accuracy, too large model, Model is not compatible with Torchscript)</i></li>
         </ul><br><br>
         👥 <b>People</b><br>
         <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
-        <li>Full Stack & On-Device AI Lead<</li>
+        <li>Full Stack & On-Device AI Lead</li>
         </ul><br><br>
         📱 <b>Products</b><br>
             <a href="https://github.com/h-ch22/AgingHelper_Android">
@@ -777,7 +796,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         </td>
         <td width="60%" align="left" valign="top">
         <img width="100px;" src="res/ic_romanowskystainslideanalyzer.png"/><br>
-        <h2>🔬 Dementia Checker</h2>
+        <h2>🔬 Romanowsky Stain Slide Analyzer</h2>
         <br>
         <b>💡 Description</b><br>
         Segmentation & Labeling Tool for Data Training and Verification Exclusive to Romanowsky Stain Slide Analyzer, Powered by SAM<br><br>

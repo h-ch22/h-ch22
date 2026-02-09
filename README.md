@@ -3,6 +3,7 @@
 # 🙌🏻 About Me
 
 > **💓 Delivering Warmth through Tech, Proven by Data.**
+
 👋🏻 반가워요! 복잡한 AI 기술을 누구나 쉽게 쓸 수 있는 서비스로 구현하는 개발자, 하창진입니다.
 
 I am a developer who bridges the gap between **Complex AI Models** and **Accessible Mobile Experiences**.

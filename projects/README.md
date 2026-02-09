@@ -316,7 +316,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>🥉 Encouragement Award (Award of President, SWKorea), 2021.K-Hackathon, SWKorea</li>
         </ul><br><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Hayeong-Lee<br><br>
+        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Hayeong Lee<br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -759,7 +759,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/ARKit-F05138?style=flat-square&logo=Swift&logoColor=white">
-        <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine"/>
+        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br><br>
         <b>🗓️ Period</b><br>
         <ul>

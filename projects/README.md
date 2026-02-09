@@ -425,10 +425,10 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/scalpChecker_mockup.png"><br>
+            <img src="res/ScalpChecker_mockup.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
-        <img width="100px;" src="res/ic_scalpChecker.png"/><br>
+        <img width="100px;" src="res/ic_ScalpChecker.png"/><br>
         <h2>💇🏻‍♀️ Scalp Checker</h2>
         <br>
         <b>💡 Description</b><br>
@@ -475,10 +475,10 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/dysarthriaChecker_mockup.png"><br>
+            <img src="res/DysarthriaChecker_mockup.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
-        <img width="100px;" src="res/ic_dysarthriaChecker.png"/><br>
+        <img width="100px;" src="res/ic_DysarthriaChecker.png"/><br>
         <h2>👄 Dysarthria Checker</h2>
         <br>
         <b>💡 Description</b><br>
@@ -525,10 +525,10 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/deepmind_mockup.png"><br>
+            <img src="res/DeepMind_mockup.PNG"><br>
         </td>
         <td width="60%" align="left" valign="top">
-        <img width="100px;" src="res/ic_deepmind.png"/><br>
+        <img width="100px;" src="res/ic_DeepMind.png"/><br>
         <h2>🧠 Deep Mind</h2>
         <br>
         <b>💡 Description</b><br>
@@ -618,7 +618,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="100%" align="left" valign="top">
-        <img width="100px;" src="res/ic_agingHelper.png"/><br>
+        <img width="100px;" src="res/ic_AgingHelper.png"/><br>
         <h2><s>👴🏻 Aging Helper</s> (Deprecated)</h2>
         <br>
         <b>💡 Description</b><br>
@@ -655,7 +655,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/dementiaChecker_mockup.png"><br>
+            <img src="res/DementiaChecker_mockup.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
         <img width="100px;" src="res/ic_dementiaChecker.png"/><br>
@@ -701,7 +701,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/d_day_watch_mockup.png"><br>
+            <img src="res/D_DAY_WATCH_mockup.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
         <img width="100px;" src="res/ic_d_day_watch.png"/><br>
@@ -746,10 +746,10 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/amuse_mockup.png"><br>
+            <img src="res/AMUSE_mockup.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
-        <img width="100px;" src="res/ic_amuse.png"/><br>
+        <img width="100px;" src="res/ic_AMUSE.png"/><br>
         <h2>📖 A.MUSE</h2>
         <br>
         <b>💡 Description</b><br>
@@ -792,10 +792,10 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/Mockup_romanowskystainslideanalyzer.png"><br>
+            <img src="res/Mockup_RomanowskyStainSlideAnalyzer.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
-        <img width="100px;" src="res/ic_romanowskystainslideanalyzer.png"/><br>
+        <img width="100px;" src="res/ic_romanowskyStainSlideAnalyzer.png"/><br>
         <h2>🔬 Romanowsky Stain Slide Analyzer</h2>
         <br>
         <b>💡 Description</b><br>
@@ -835,7 +835,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/mockup_swirlingchecker.png"><br>
+            <img src="res/mockup_SwirlingChecker.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
         <img width="100px;" src="res/ic_swirlingChecker.png"/><br>
@@ -877,10 +877,10 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
-            <img src="res/mockup_sbl_web_v2.png"><br>
+            <img src="res/Mockup_SBL_Web_v2.png"><br>
         </td>
         <td width="60%" align="left" valign="top">
-        <img width="400px;" src="res/ic_sbl.png"/><br>
+        <img width="400px;" src="res/ic_SBL.png"/><br>
         <h2>🖥️ SBL Web v2</h2>
         <br>
         <b>💡 Description</b><br>

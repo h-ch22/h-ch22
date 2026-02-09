@@ -8,9 +8,9 @@
 
 <b>&nbsp;🎯 Career</b><br>
 
-|Company|Position|Period|
-|-----|-----|-----|
-|Jeonbuk National University Hospital Biomedical Research Institute|BS Researcher|Mar. 2024 - Feb. 2025|<br>
+| Company                                                            | Position      | Period                |
+| ------------------------------------------------------------------ | ------------- | --------------------- | ---- |
+| Jeonbuk National University Hospital Biomedical Research Institute | BS Researcher | Mar. 2024 - Feb. 2025 | <br> |
 
 > **↗️ Redefining Quality through Cutting-Edge Technology.**
 
@@ -130,6 +130,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 - [<img width="30px;" src="res/ic_SBL.png"> SBL Web v2](#sbl-web-v2)
 
 <a id="medi"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -181,6 +182,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="jbnu-coe"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -243,6 +245,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="sozip"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -291,6 +294,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="off-it"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -328,6 +332,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="hoosaeng-order"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -364,6 +369,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="jbnu-ch"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -422,6 +428,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="scalp-checker"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -472,6 +479,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="dysarthria-checker"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -522,6 +530,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="deep-mind"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -571,6 +580,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="sbl-web"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -615,6 +625,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="aging-helper"></a>
+
 <table>
     <tr>
         <td width="100%" align="left" valign="top">
@@ -652,6 +663,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="dementia-checker"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -698,6 +710,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="d-day-watch"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -743,6 +756,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="a-muse"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -773,7 +787,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <b>Changjin Ha</b>, Hwaram Park, Jisoo Park<br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
-        <li>Full Stack</li>
+        <li>Full Stack & XR, Unreal Lead</li>
         </ul><br><br>
         📱 <b>Products</b><br>
             <a href="https://github.com/h-ch22/A.MUSE_iOS">
@@ -789,6 +803,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="romanowsky-stain-slide-analyzer"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -819,7 +834,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
-        <li>Full Stack & On-Device AI Lead</li>
+        <li>On-Device AI & Windows App Lead</li>
         </ul><br><br>
         📱 <b>Products</b><br>
             <a href="https://github.com/h-ch22/RomanowskyStainSlideAnalyzer_Windows">
@@ -832,6 +847,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="swirling-checker"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">
@@ -839,7 +855,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         </td>
         <td width="60%" align="left" valign="top">
         <img width="100px;" src="res/ic_swirlingChecker.png"/><br>
-        <h2>🩸 Swirling Checker</h2>
+        <h2>💫 Swirling Checker</h2>
         <br>
         <b>💡 Description</b><br>
         Detect the swirling phenomenon of liquid using OpenCV<br><br>
@@ -861,7 +877,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
-        <li>Full Stack</li>
+        <li>CV & Windows App Lead</li>
         </ul><br><br>
         📱 <b>Products</b><br>
             <a href="https://github.com/h-ch22/SwirlingChecker_Windows">
@@ -874,6 +890,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 ---
 
 <a id="sbl-web-v2"></a>
+
 <table>
     <tr>
         <td width="40%" align="center" valign="center">

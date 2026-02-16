@@ -2,7 +2,7 @@
 
 <img align="left" float="left" width="170px" src="res/img_profile.jpg">
 <h1>&nbsp;Changjin Ha</h1><br>
-<b>&nbsp;👨🏻‍💻 Profile:</b> Full-Stack Developer / Software Engineer<br>
+<b>&nbsp;👨🏻‍💻 Profile:</b> Software Engineer<br>
 <b>&nbsp;👨‍🎓 Degree:</b> Feb. 2024 / BS, Software Engineering, Jeonbuk National University<br> 
 <b>&nbsp;✉️ E-Mail:</b> ckdwls9460@gmail.com<br>
 
@@ -133,15 +133,15 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/MEDi_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+    <img src="res/MEDi_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_MEDi.png"/><br>
         <h2>💊 MEDi</h2>
         <br>
         <b>💡 Description</b><br>
-        Educational applications for correct use of non-drugs for children<br>
+        Educational applications for correct use of non-drugs for children<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
@@ -150,24 +150,24 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/ARKit-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
-        Jun. 2020 - Oct. 2020<br>
-        🎯 <b>Results</b><br>
+        Jun. 2020 - Oct. 2020<br><br>
+        🎯 <b>Results</b>
         <ul>
         <li>✅ All features implemented</li>
         <li>🥉 Encouragement Award (Award of Chairman, SWKorea), 2020.K-Hackathon, SWKorea</li>
         <li>🚀 Published on Google Play</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b>, <a href="https://github.com/yejin25">Yejin Seo</a>, <a href="https://github.com/1hyunjin">Hyunjin Yoo</a>, †Hayeon Oh<br>
+        <b>Changjin Ha</b>, <a href="https://github.com/yejin25">Yejin Seo</a>, <a href="https://github.com/1hyunjin">Hyunjin Yoo</a>, †Hayeon Oh<br><br>
         🕊️ <b>In Memoriam</b><br>
         <i>This project is dedicated to the memory of our brilliant team member and dear friend, Hayeon Oh (03. 01. 1998 - 06. 30. 2023).<br>
         Your radiant passion and dedication made this project possible.<br>
         May you rest in peace. We will forever remember every moment we shared with you.</i><br>
         <i>이 프로젝트는 우리의 훌륭한 팀원이자 소중한 친구였던 <b>故 오하연 (1998. 03. 01 - 2023. 06. 30)</b> 님의 영전에 바칩니다.<br>
         당신의 빛나는 열정과 헌신이 있었기에 이 프로젝트가 세상에 나올 수 있었습니다.<br>
-        고인의 명복을 빌며, 함께했던 모든 순간을 영원히 기억하겠습니다.</i><br>
+        고인의 명복을 빌며, 함께했던 모든 순간을 영원히 기억하겠습니다.</i><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>iOS & AR Lead, Full Stack</li>
@@ -178,7 +178,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         </a>
         <a href="https://github.com/h-ch22/MEDi_iOS">
             <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat-square&logo=iOS&logoColor=white"/>
-        </a>
+        </a><br>
         <a href="https://play.google.com/store/apps/details?id=com.PANDEMIC.MEDi&hl=ko&gl=US">
             <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
         </a>
@@ -192,15 +192,15 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/JBNUCOE_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/JBNUCOE_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_JBNUCOE.png"/><br>
         <h2>📱 JBNU COE</h2>
         <br>
         <b>💡 Description</b><br>
-        An official mobile application of College of Engineering, Jeonbuk National University Student Council. get notice and welfare for fastest<br>
+        An official mobile application of College of Engineering, Jeonbuk National University Student Council. get notice and welfare for fastest<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
@@ -210,13 +210,13 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
         <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=Windows&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Dec. 2020 - Mar. 2021</li>
             <li>🛠️ Mar. 2021 - Nov. 2021 (Update)</li>
         </ul><br>
-        🎯 <b>Results</b><br>
+        🎯 <b>Results</b>
         <ul>
         <li>✅ All features implemented</li>
         <li>📰 <a href="https://www.jbpresscenter.com/news/articleView.html?idxno=501197">전북대 공대 앱’ 개발한 장경수, 하창진 씨, JB Press Center, 2021</a></li>
@@ -224,7 +224,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>👥 5,000+ Users</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -238,7 +238,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
             </a>
             <a href="https://github.com/h-ch22/JBNUCOE_Admin">
                 <img src="https://img.shields.io/badge/Source_Code-Windows-blue?style=flat-square&logo=Windows&logoColor=white"/>
-            </a>
+            </a><br>
             <a href="https://play.google.com/store/apps/details?id=kr.ac.jbnu.coe&hl=ko&gl=US">
                 <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
             </a>
@@ -255,15 +255,15 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/SOZIP_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/SOZIP_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_SOZIP.png"/><br>
         <h2>🍔 소집 : SOZIP</h2>
         <br>
         <b>💡 Description</b><br>
-        Location-based Delivery Fee Splitting Platform<br>
+        Location-based Delivery Fee Splitting Platform<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
@@ -271,18 +271,18 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jun. 2021 - Dec. 2021</li>
             <li>🛠️ Apr. 2023 - Jun. 2023 (Update)</li>
         </ul><br>
-        🎯 <b>Results</b><br>
+        🎯 <b>Results</b>
         <ul>
         <li>✅ All features implemented</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -304,30 +304,30 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/OFFIT_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/OFFIT_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_OFFIT.png"/><br>
         <h2>🔌 OFF:IT</h2>
         <br>
         <b>💡 Description</b><br>
-        An Application for Universal Home IoT Device&Service<br>
+        An Application for Universal Home IoT Device&Service<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
-        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jun. 2021 - Oct. 2021</li>
         </ul><br>
-        🎯 <b>Results</b><br>
+        🎯 <b>Results</b>
         <ul>
         <li>✅ All features implemented</li>
         <li>🥉 Encouragement Award (Award of President, SWKorea), 2021.K-Hackathon, SWKorea</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Hayeong Lee<br>
+        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Hayeong Lee<br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -342,19 +342,19 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/HoosaengOrder_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/HoosaengOrder_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_HoosaengOrder.png"/><br>
         <h2>🍽️ 후생관 오더</h2>
         <br>
         <b>💡 Description</b><br>
-        An application for non-face-to-face ordering and issuance of meal vouchers at Jeonbuk National University's student cafeteria<br>
+        An application for non-face-to-face ordering and issuance of meal vouchers at Jeonbuk National University's student cafeteria<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
-        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Nov. 2021 - Nov. 2021</li>
@@ -364,7 +364,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>✅ All features implemented</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Seunga Park<br>
+        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a>, Seunga Park<br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -379,15 +379,15 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/JBNUCH_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/JBNUCH_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_JBNUCH.png"/><br>
         <h2>📱 JBNU Student Council</h2>
         <br>
         <b>💡 Description</b><br>
-        An official mobile application of Jeonbuk National University Student Council. get notice and welfare for fastest<br>
+        An official mobile application of Jeonbuk National University Student Council. get notice and welfare for fastest<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
@@ -397,7 +397,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
         <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=Windows&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Dec. 2021 - Mar. 2022</li>
@@ -410,7 +410,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>👥 10,000+ Users</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -421,7 +421,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
             </a>
             <a href="https://github.com/h-ch22/JBNUCH_iOS">
                 <img src="https://img.shields.io/badge/Source_Code-iOS&iPadOS-black?style=flat-square&logo=iOS&logoColor=white"/>
-            </a>
+            </a><br>
             <a href="https://play.google.com/store/apps/details?id=kr.ac.jbnu.ch&hl=ko&gl=US">
                 <img style="width: 150px; height: 45px;" src="./res/img_getInOnGooglePlay.png"/>
             </a>
@@ -438,21 +438,21 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/ScalpChecker_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/ScalpChecker_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_ScalpChecker.png"/><br>
         <h2>💇🏻‍♀️ Scalp Checker</h2>
         <br>
         <b>💡 Description</b><br>
-        Software that uses on-device artificial intelligence to diagnose scalp conditions (dandruff, sebum, erythema, microkeratin, pustule, hair loss)<br>
+        Software that uses on-device artificial intelligence to diagnose scalp conditions (dandruff, sebum, erythema, microkeratin, pustule, hair loss)<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
         <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=Windows&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jan. 2023 - Mar. 2023</li>
@@ -464,7 +464,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li><a href="https://www.mdpi.com/2076-3417/14/5/1734">📑 Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi), Applied Sciences, 2024</a></li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Windows App Lead</li>
@@ -489,22 +489,22 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/DysarthriaChecker_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/DysarthriaChecker_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_DysarthriaChecker.png"/><br>
         <h2>👄 Dysarthria Checker</h2>
         <br>
         <b>💡 Description</b><br>
-        A diagnose app for detect dysarthria with ML and Korean vocalization for Korean<br>
+        A diagnose app for detect dysarthria with ML and Korean vocalization for Korean<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br>
+        <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jun. 2023 - Aug. 2023</li>
@@ -518,7 +518,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>🥇 Excellent Paper Award (Award of President, KOSOMBE), Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go), Journal of Biomedical Engineering Research, KOSOMBE, 2024</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack & On-Device AI Lead</li>
@@ -540,15 +540,15 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/DeepMind_mockup.PNG"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/DeepMind_mockup.PNG"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_DeepMind.png"/><br>
         <h2>🧠 Deep Mind</h2>
         <br>
         <b>💡 Description</b><br>
-        On-device AI-based HTP testing and real-time consultation application<br>
+        On-device AI-based HTP testing and real-time consultation application<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
@@ -557,7 +557,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jun. 2023 - Oct. 2023</li>
@@ -568,7 +568,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>🏅 Special Award (Award of Chairman, SWKorea), 2023. K-Hackathon, SWKorea</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a><br>
+        <b>Changjin Ha</b>, <a href="https://github.com/yujeecatherine">Yujee Chang</a><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack & On-Device AI Lead</li>
@@ -590,19 +590,19 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/SBL_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/SBL_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="400px;" src="res/ic_SBL.png"/><br>
         <h2>🖥️ SBL Web</h2>
         <br>
         <b>💡 Description</b><br>
-        An official website for Smart Biophotonics Lab., Jeonbuk National University<br>
+        An official website for Smart Biophotonics Lab., Jeonbuk National University<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/JavaScript-dda543?style=flat-square&logo=JavaScript&logoColor=white"/><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Nov. 2023 - Nov. 2023</li>
@@ -613,7 +613,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>🚀 Published</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -673,21 +673,21 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/DementiaChecker_mockup.png"><br>
-        </td>
+        <img src="res/DementiaChecker_mockup.png"><br>
+    </tr>
+    <tr>
         <td width="60%" align="left" valign="top">
         <img width="100px;" src="res/ic_dementiaChecker.png"/><br>
         <h2>🧠 Dementia Checker</h2>
         <br>
         <b>💡 Description</b><br>
-        Deep learning-based dementia diagnosis application using intelligence test, sleep, and lifestyle data<br>
+        Deep learning-based dementia diagnosis application using intelligence test, sleep, and lifestyle data<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jan. 2024 - Feb. 2024</li>
@@ -698,7 +698,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>🥈 Excellent Award (Award of President, KIISE), Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage <i>(Changjin Ha, Taesik Go)</i>, Korea Computer Congress 2024, KIISE</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack & On-Device AI Lead</li>
@@ -720,20 +720,20 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/D_DAY_WATCH_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/D_DAY_WATCH_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_d_day_watch.png"/><br>
         <h2>🗓️ D-DAY WATCH</h2>
         <br>
         <b>💡 Description</b><br>
-        Check your own D-Day on wearOS<br>
+        Check your own D-Day on wearOS<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/wearOS-green?style=flat-square&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ May. 2024 - Jun. 2024</li>
@@ -744,7 +744,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>🚀 Published on Google Play</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>
@@ -766,22 +766,22 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/AMUSE_mockup.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/AMUSE_mockup.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_AMUSE.png"/><br>
         <h2>📖 A.MUSE</h2>
         <br>
         <b>💡 Description</b><br>
-        A complex cultural experience solution using XR technology<br>
+        A complex cultural experience solution using XR technology<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/iOS&iPadOS-000000?style=flat-square&logo=iOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/ARKit-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jul. 2024 - Sep. 2024</li>
@@ -791,7 +791,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>✅ All features implemented</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b>, Hwaram Park, Jisoo Park<br>
+        <b>Changjin Ha</b>, Hwaram Park, Jisoo Park<br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack & XR, Unreal Lead</li>
@@ -813,22 +813,22 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/Mockup_RomanowskyStainSlideAnalyzer.png"><br>
-        </td>
-        <td width="60%" align="left" valign="top">
+        <img src="res/Mockup_RomanowskyStainSlideAnalyzer.png"><br>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
         <img width="100px;" src="res/ic_romanowskyStainSlideAnalyzer.png"/><br>
         <h2>🔬 Romanowsky Stain Slide Analyzer</h2>
         <br>
         <b>💡 Description</b><br>
-        Segmentation & Labeling Tool for Data Training and Verification Exclusive to Romanowsky Stain Slide Analyzer, Powered by SAM<br>
+        Segmentation & Labeling Tool for Data Training and Verification Exclusive to Romanowsky Stain Slide Analyzer, Powered by SAM<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
         <img src="https://img.shields.io/badge/WinUI3-0078D4?style=flat-square&logo=Windows&logoColor=white">
         <img src="https://img.shields.io/badge/WSL-FCC624.svg?style=flat-square&logo=Linux&logoColor=black"/></a>
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Nov. 2024 - Jan. 2025</li>
@@ -838,7 +838,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>✅ All features implemented</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>On-Device AI & Windows App Lead</li>
@@ -857,21 +857,21 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/mockup_SwirlingChecker.png"><br>
-        </td>
+        <img src="res/mockup_SwirlingChecker.png"><br>
+    </tr>
+    <tr>
         <td width="60%" align="left" valign="top">
         <img width="100px;" src="res/ic_swirlingChecker.png"/><br>
         <h2>💫 Swirling Checker</h2>
         <br>
         <b>💡 Description</b><br>
-        Detect the swirling phenomenon of liquid using OpenCV<br>
+        Detect the swirling phenomenon of liquid using OpenCV<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white">
         <img src="https://img.shields.io/badge/WinUI3-0078D4?style=flat-square&logo=Windows&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/OpenCV-F70103?style=flat-square&logo=OpenCV&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jan. 2025 - Jan. 2025</li>
@@ -881,7 +881,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>✅ All features implemented</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>CV & Windows App Lead</li>
@@ -900,18 +900,18 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 
 <table>
     <tr>
-        <td width="40%" align="center" valign="center">
-            <img src="res/Mockup_SBL_Web_v2.png"><br>
-        </td>
+        <img src="res/Mockup_SBL_Web_v2.png"><br>
+    </tr>
+    <tr>
         <td width="60%" align="left" valign="top">
         <img width="400px;" src="res/ic_SBL.png"/><br>
         <h2>🖥️ SBL Web v2</h2>
         <br>
         <b>💡 Description</b><br>
-        An official website for Smart Biophotonics Lab., Jeonbuk National University. Fast, stable, and beautiful, rebuilt with Vue<br>
+        An official website for Smart Biophotonics Lab., Jeonbuk National University. Fast, stable, and beautiful, rebuilt with Vue<br><br>
         <b>🛠️ Technologies</b><br>
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Sep. 2025 - Oct. 2025</li>
@@ -922,7 +922,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <li>🚀 Published</li>
         </ul><br>
         👥 <b>People</b><br>
-        <b>Changjin Ha</b><br>
+        <b>Changjin Ha</b><br><br>
         🙋🏻 <b>Role</b><br>
         <ul>
         <li>Full Stack</li>

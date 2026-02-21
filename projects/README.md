@@ -8,9 +8,9 @@
 
 <b>&nbsp;🎯 Career</b><br>
 
-| Company | Position | Period |
-| --- | --- | --- |
-| Jeonbuk National University Hospital Biomedical Research Institute | BS Researcher | Mar. 2024 - Feb. 2025 | <br>
+| Company | Position | Role | Period |
+| --- | --- | --- | --- |
+| Jeonbuk National University Hospital Biomedical Research Institute | BS Researcher | On-Device AI Engineer | Mar. 2024 - Feb. 2025 | <br>
 
 > **↗️ Redefining Quality through Cutting-Edge Technology.**
 
@@ -103,6 +103,14 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
+
+### 🌏 Human Languages
+
+- 🇰🇷 **Korean**: Native
+- 🇺🇸 **English**: Professional Working Proficiency (**OPIc IH**)
+  - Fluent in Technical Reading & Writing<br>
+- 🇩🇪 **German**: Basic<br>
+- 🇯🇵 **Japanese**: Basic
 </div>
 
 ---
@@ -504,7 +512,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
         <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Augmented%20Reality-F05138?style=flat-square"><br><br>
+        <img src="https://img.shields.io/badge/ARKit-F05138?style=flat-square&logo=Swift&logoColor=white"><br><br>
         <b>🗓️ Period</b><br>
         <ul>
             <li>🗓️ Jun. 2023 - Aug. 2023</li>

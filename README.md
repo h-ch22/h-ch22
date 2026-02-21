@@ -23,6 +23,13 @@ My passion lies in solving real-world problems through technology, specifically 
 # 📋 Index
 
 - [🛠 Tech Stack](#techStack)
+  - [📱 Mobile Application](#mobileApp)
+  - [💻 Desktop Application](#desktopApp)
+  - [🍃 Web & Backend](#web)
+  - [🤖 AI & CV & Game](#ai)
+  - [🧱 CS Foundation & Algorithms](#csFoundation)
+  - [💻 Tools & Environment](#tools)
+  - [🌏 Human Languages](#humanLanguages)
 - [🧑‍💻 Projects](#projects)
 - [🎓 Education & Certificates](#education)
 - [🌱 Experience](#experience)
@@ -36,6 +43,8 @@ My passion lies in solving real-world problems through technology, specifically 
 # 🛠 Tech Stack
 
 ## 🚀 Main Tech Stack
+
+<a id="mobileApp"></a>
 
 ### 📱 Mobile Application
 
@@ -54,6 +63,8 @@ My passion lies in solving real-world problems through technology, specifically 
 <img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 </div>
 
+<a id="desktopApp"></a>
+
 ### 💻 Desktop Application
 
 <div>
@@ -63,6 +74,8 @@ My passion lies in solving real-world problems through technology, specifically 
 <img src="https://img.shields.io/badge/WPF-0078D4.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WinForm-%23239120.svg?style=flat-square&logo=Windows&logoColor=white"/></a>
 </div>
+
+<a id="web"></a>
 
 ### 🍃 Web & Backend
 
@@ -83,6 +96,8 @@ My passion lies in solving real-world problems through technology, specifically 
     </div>
 </div>
 
+<a id="ai"></a>
+
 ### 🤖 AI & CV & Game
 
 <div>
@@ -96,12 +111,16 @@ My passion lies in solving real-world problems through technology, specifically 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 </div>
 
+<a id="csFoundation"></a>
+
 ### 🧱 CS Foundation & Algorithms
 
 <div>
 <img src="https://img.shields.io/badge/C-29368d?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 </div>
+
+<a id="tools"></a>
 
 ### 💻 Tools & Environment
 
@@ -120,7 +139,19 @@ My passion lies in solving real-world problems through technology, specifically 
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
 </div>
 
+<a id="humanLanguages"></a>
+
+### 🌏 Human Languages
+
+- 🇰🇷 **Korean**: Native
+- 🇺🇸 **English**: Professional Working Proficiency (**OPIc IH**)
+  - Fluent in Technical Reading & Writing<br>
+- 🇩🇪 **German**: Basic<br>
+- 🇯🇵 **Japanese**: Basic
+
+
 <a id="projects"></a>
+
 # 🧑‍💻 Projects
 
 ## ✨ Featured Projects
@@ -285,13 +316,14 @@ My passion lies in solving real-world problems through technology, specifically 
 <a id="education"></a>
 # 🎓 Education & Certificates
 
-|Agency|Subject|Period|
-|------|------|-----|
-|Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
-|Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
-|HRDK|Engineer Information Processing Certificate|2023|
-|LG AI Research|2nd Period, LG Aimers|Dec. 2022 - Feb. 2023|
-|Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|
+|Type|Agency|Subject|Period|
+|---|------|------|-----|
+|🎓 Education|Jeonbuk National University|BS Graduated, Dept. of Software Engineering|Feb. 2024|
+|🎓 Education|Jeonbuk National University|Aeronautical and drone Software Engineer Course (Micro Degree)|Jan. 2024|
+|🏅 Certificate|ACTFL|OPIc IH|Jan. 2024|
+|🏅 Certificate|HRDK|Engineer Information Processing Certificate|2023|
+|🎓 Education|LG AI Research|2nd Period, LG Aimers|Dec. 2022 - Feb. 2023|
+|🎓 Education|Jeonbuk National University|Dept. of Software Engineering (SWE)|Mar. 2018 - Feb. 2024|
 
 <a id="experience"></a>
 # 🌱 Experience
@@ -308,7 +340,7 @@ My passion lies in solving real-world problems through technology, specifically 
 |KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria<br>*(**Changjin Ha**, Taesik Go)*, Poster Presentation|Nov. 2023|
 |RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria<br>*(**Changjin Ha**, Taesik Go)*|Nov. 2023|
 |KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant<br>*([Younsu Nam](https://github.com/namyounsu) , [Sechang Kim](https://github.com/winersch) , [Jaehyeon Kim](https://github.com/kiku99) , [Hyunsu Kim](https://github.com/kimhyun5u) , **Changjin Ha** * , Sunoh Choi and Cheoljung Yoo)*|Aug. 2023|
-|KOSOMBE|Development of XAI-based Scalp Inspection Software<br>*(**Changjin Ha**, Taesik-Go)*, Poster Presentation|Apr. 2023|
+|KOSOMBE|Development of XAI-based Scalp Inspection Software<br>*(**Changjin Ha**, Taesik Go)*, Poster Presentation|Apr. 2023|
 |Jeonbuk National University|Undergraduate Research Student, Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
 
 <a id="awards"></a>

@@ -339,7 +339,7 @@ My passion lies in solving real-world problems through technology, specifically 
 |Applied Sciences|[Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders<br>*(**Changjin Ha**, Taesik Go, Woorak Choi)*](https://www.mdpi.com/2076-3417/14/5/1734)|Feb. 2024|
 |KOSOMBE|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria<br>*(**Changjin Ha**, Taesik Go)*, Poster Presentation|Nov. 2023|
 |RESKO|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria<br>*(**Changjin Ha**, Taesik Go)*|Nov. 2023|
-|KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant<br>*([Younsu Nam](https://github.com/namyounsu) , [Sechang Kim](https://github.com/winersch) , [Jaehyeon Kim](https://github.com/kiku99) , [Hyunsu Kim](https://github.com/kimhyun5u) , **Changjin Ha** * , Sunoh Choi and Cheoljung Yoo)*|Aug. 2023|
+|KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant<br>*([Younsu Nam](https://github.com/namyounsu) , [Sechang Kim](https://github.com/winersch) , [Jaehyeon Kim](https://github.com/kiku99) , [Hyunsu Kim](https://github.com/kimhyun5u) , **Changjin Ha** , Sunoh Choi and Cheoljung Yoo)*|Aug. 2023|
 |KOSOMBE|Development of XAI-based Scalp Inspection Software<br>*(**Changjin Ha**, Taesik Go)*, Poster Presentation|Apr. 2023|
 |Jeonbuk National University|Undergraduate Research Student, Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
 
@@ -370,15 +370,15 @@ My passion lies in solving real-world problems through technology, specifically 
 
 |Journal|Journal Name|Subject|
 |-----|-----|-----|
-|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2024)|Development of a deep learning-based mobile application for early diagnosing dementia (Changjin Ha, Taesik Go)|
-|Domestic Conference|KCC 2024|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (Changjin Ha, Taesik Go)|
-|International Journal|Applied Sciences|Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, Changjin Ha, Seungyeob Lee, Taesik Go)|
-|Domestic Journal|Journal of Biomedical Engineering Research, KOSOMBE|Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (Changjin Ha, Taesik Go)|
-|International Journal|Applied Sciences|Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (Changjin Ha, Taesik Go, Woorak Choi)|
-|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2023)|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (Changjin Ha, Taesik Go)|
-|Domestic Conference|Rehabilitation Engineering And Assistive Technology Society of Korea (Fall, 2023)|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (Changjin Ha, Taesik Go)|
-|Domestic Conference|Korean Institute of Information Technology (Summer, 2023)|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant (Younsu Nam, Sechang Kim, Jaehyeon Kim, Hyunsu Kim, Changjin Ha, Sunoh Choi and Cheoljung Yoo)|
-|Domestic Conference|The Korean Society of Medical & Biological Engineering (Spring, 2023)|Development of XAI-based Scalp Inspection Software (Changjin Ha, Taesik Go)|
+|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2024)|Development of a deep learning-based mobile application for early diagnosing dementia (**Changjin Ha**, Taesik Go)|
+|Domestic Conference|KCC 2024|Development of a deep learning based mobile application using MMSE, life-log and sleep data for diagnosing dementia stage (**Changjin Ha**, Taesik Go)|
+|International Journal|Applied Sciences|Diagnosis of Pressure Ulcer Stage Using On-Device AI (Yujee Chang, Junhyung Kim, Hyunwoo Shin, **Changjin Ha**, Seungyeob Lee, Taesik Go)|
+|Domestic Journal|Journal of Biomedical Engineering Research, KOSOMBE|Development of a Mobile Application for Disease Prediction Using Speech Data of Korean Patients with Dysarthria (**Changjin Ha**, Taesik Go)|
+|International Journal|Applied Sciences|Intelligent Healthcare Platform for Diagnosis of Scalp and Hair Disorders (**Changjin Ha**, Taesik Go, Woorak Choi)|
+|Domestic Conference|The Korean Society of Medical & Biological Engineering (Fall, 2023)|Development of a mobile application for disease prediction and pronunciation correction using speech data of Korean patients with dysarthria (**Changjin Ha**, Taesik Go)|
+|Domestic Conference|Rehabilitation Engineering And Assistive Technology Society of Korea (Fall, 2023)|Development of mobile applications for diagnosis and rehabilitation of Korean dysarthria (**Changjin Ha**, Taesik Go)|
+|Domestic Conference|Korean Institute of Information Technology (Summer, 2023)|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant (Younsu Nam, Sechang Kim, Jaehyeon Kim, Hyunsu Kim, **Changjin Ha**, Sunoh Choi and Cheoljung Yoo)|
+|Domestic Conference|The Korean Society of Medical & Biological Engineering (Spring, 2023)|Development of XAI-based Scalp Inspection Software (**Changjin Ha**, Taesik Go)|
 
 <a id="contact"></a>
 # 😊 Contact

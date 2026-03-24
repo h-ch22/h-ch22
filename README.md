@@ -342,6 +342,7 @@ My passion lies in solving real-world problems through technology, specifically 
 |KIIT|Development of Source Code Evaluation and Similarity Inspection System : Code Odor Detect Assistant<br>*([Younsu Nam](https://github.com/namyounsu) , [Sechang Kim](https://github.com/winersch) , [Jaehyeon Kim](https://github.com/kiku99) , [Hyunsu Kim](https://github.com/kimhyun5u) , **Changjin Ha** , Sunoh Choi and Cheoljung Yoo)*|Aug. 2023|
 |KOSOMBE|Development of XAI-based Scalp Inspection Software<br>*(**Changjin Ha**, Taesik Go)*, Poster Presentation|Apr. 2023|
 |Jeonbuk National University|Undergraduate Research Student, Smart Biophotonics Lab.|Jan. 2023 - Feb. 2024|
+|eje|Co-founder & Lead Developer|Jun. 2021 - Feb. 2022|
 
 <a id="awards"></a>
 # 🏆 Awards

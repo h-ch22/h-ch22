@@ -19,7 +19,7 @@ My passion lies in solving real-world problems through technology, specifically 
 **"Engineering for Humanity"** is the core identity that drives my code.
 
 [<img src="https://img.shields.io/badge/See%20this%20document%20on%20Notion-000000?style=flat-square&logo=Notion&logoColor=white">](https://www.notion.so/Changjin%20Ha-950fb9482888474cb3abef91f714f24d?pvs=4)
-[<img src="https://img.shields.io/badge/Visit%20my%20portfolio%20website-3178C6?style=flat-square&logo=TypeScript&logoColor=white">](https://changjin-ha.web.app) </br>
+[<img src="https://img.shields.io/badge/Visit%20my%20portfolio%20website-61DAFB?style=flat-square&logo=React&logoColor=white">](https://changjin-ha.web.app) </br>
 
 
 # 📋 Index
@@ -176,16 +176,20 @@ My passion lies in solving real-world problems through technology, specifically 
             </a>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="projects/res/Mockup_SBL_Web_v2.png" height="150" /><br>
+            <img src="projects/res/Personal_Portfolio_Mockup.png" height="150" /><br>
             <div>
-                <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+                <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+                <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=TailWind%20CSS&logoColor=white">
+                <img src="https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcnui&logoColor=white">
                 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><br>
             </div><br>
-            <b>🖥️ SBL Official Website</b><br>
+            <b>🖥️ Personal Portfolio Website</b><br>
             <p>🙋🏻 Role: Full Stack</p><br>
-            <a href="https://sbl-web.web.app"><br>
-            💻 Visit Website</a><br>
-            <a href="https://github.com/h-ch22/SBL_Web_v2">
+            <a href="https://changjin-ha.web.app"><br>
+            <a href="https://changjin-ha.web.app">
+                <img src="https://img.shields.io/badge/Visit-Website-blue?style=flat-square&logo=Google%20Chrome&logoColor=white"/>
+            </a>
+            <a href="https://github.com/h-ch22/Personal-Portfolio">
                 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
             </a>
         </td>

@@ -18,6 +18,10 @@ I believe that adopting the latest technology is not just about following trends
 
 By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Device AI, I deliver results that stand apart in stability and polish.
 
+[<img src="https://img.shields.io/badge/You%20can%20find%20more%20detailed%20information%20on%20my%20portfolio%20website-61DAFB?style=flat-square&logo=React&logoColor=white">](https://changjin-ha.web.app) </br>
+
+<p>or you can find more detailed information in each project's repository.</p>
+
 # 🛠 Tech Stack
 
 ## 🚀 Main Tech Stack
@@ -136,6 +140,7 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
 - [<img width="30px;" src="res/ic_romanowskyStainSlideAnalyzer.png"> Romanowsky Stain Slide Analyzer](#romanowsky-stain-slide-analyzer)
 - [<img width="30px;" src="res/ic_swirlingChecker.png"> Swirling Checker](#swirling-checker)
 - [<img width="30px;" src="res/ic_SBL.png"> SBL Web v2](#sbl-web-v2)
+- [<img width="30px;" src="res/ic_personal_portfolio.png"> Personal Portfolio Website](#personal-portfolio)
 
 <a id="medi"></a>
 
@@ -940,6 +945,52 @@ By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Devi
                 <img src="https://img.shields.io/badge/Source_Code-Web-4FC08D?style=flat-square&logo=Vue.JS&logoColor=white"/>
             </a>
             <a href="https://sbl-web.web.app">
+                <img src="https://img.shields.io/badge/Visit-Website-blue?style=flat-square&logo=Google%20Chrome&logoColor=white"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+---
+
+<a id="personal-portfolio"></a>
+
+<table>
+    <tr>
+        <img src="res/Personal_Portfolio_Mockup.png"><br>
+    </tr>
+    <tr>
+        <td width="60%" align="left" valign="top">
+        <img width="100px;" src="res/ic_personal_portfolio.png"/><br>
+        <h2>🙋🏻‍♂️ Personal Portfolio Website</h2>
+        <br>
+        <b>💡 Description</b><br>
+        A modern, highly customizable developer portfolio template built with React, TypeScript, and Tailwind CSS<br><br>
+        <b>🛠️ Technologies</b><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=TailWind%20CSS&logoColor=white">
+        <img src="https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcnui&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><br><br>
+        <b>🗓️ Period</b><br>
+        <ul>
+            <li>🗓️ Mar. 2026 - Apr. 2026</li>
+        </ul><br>
+        🎯 <b>Results</b><br>
+        <ul>
+        <li>✅ All features implemented</li>
+        <li>🚀 Published</li>
+        </ul><br>
+        👥 <b>People</b><br>
+        <b>Changjin Ha</b><br><br>
+        🙋🏻 <b>Role</b><br>
+        <ul>
+        <li>Full Stack</li>
+        </ul><br>
+        📱 <b>Products</b><br>
+            <a href="https://github.com/h-ch22/Personal-Portfolio">
+                <img src="https://img.shields.io/badge/Source_Code-Web-61DAFB?style=flat-square&logo=React&logoColor=white">
+            </a>
+            <a href="https://changjin-ha.web.app">
                 <img src="https://img.shields.io/badge/Visit-Website-blue?style=flat-square&logo=Google%20Chrome&logoColor=white"/>
             </a>
         </td>

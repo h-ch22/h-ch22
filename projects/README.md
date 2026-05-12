@@ -4,7 +4,7 @@
 <h1>&nbsp;Changjin Ha</h1><br>
 <b>&nbsp;👨🏻‍💻 Profile:</b> Software Engineer<br>
 <b>&nbsp;👨‍🎓 Degree:</b> Feb. 2024 / BS, Software Engineering, Jeonbuk National University<br> 
-<b>&nbsp;✉️ E-Mail:</b> ckdwls9460@gmail.com<br>
+<b>&nbsp;✉️ E-Mail:</b> contact@changjinha.com<br>
 
 <b>&nbsp;🎯 Career</b><br>
 
@@ -18,7 +18,7 @@ I believe that adopting the latest technology is not just about following trends
 
 By boldly embracing modern frameworks like SwiftUI, Jetpack Compose, and On-Device AI, I deliver results that stand apart in stability and polish.
 
-[<img src="https://img.shields.io/badge/You%20can%20find%20more%20detailed%20information%20on%20my%20portfolio%20website-61DAFB?style=flat-square&logo=React&logoColor=white">](https://changjin-ha.web.app) </br>
+[<img src="https://img.shields.io/badge/You%20can%20find%20more%20detailed%20information%20on%20my%20portfolio%20website-61DAFB?style=flat-square&logo=React&logoColor=white">](https://changjinha.com) </br>
 
 <p>or you can find more detailed information in each project's repository.</p>
 

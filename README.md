@@ -127,18 +127,12 @@ My passion lies in solving real-world problems through technology, specifically 
 ### 💻 Tools & Environment
 
 <div>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/WSL-FCC624.svg?style=flat-square&logo=Linux&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine"/></a>
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat-square&logo=Maven&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vite-9135FF.svg?style=flat-square&logo=Vite&logoColor=white"/></a>
 </div>
 
 <a id="humanLanguages"></a>
